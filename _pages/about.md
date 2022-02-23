@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About me
 
 I attended a agriculture university (HZAU) in Wuhan, central China. I once dream to be a biology scientist, and was a Cell and Molecular Biology PhD student in Viginia Tech, USA. But I withdraw this program due to some reasons, went back to China, dive to computer science.
 

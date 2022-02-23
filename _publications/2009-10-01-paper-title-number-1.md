@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A cancellable face template scheme based on nonlinear multi-dimension spectral hashing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "This paper is about the number 1. The number 2 is left for future work.<br/><img src='/images/500x300.png'>"
+excerpt: "The exposure of face templates potentially leads to severe security and privacy risks. For example, the attacker can utilize the compromised face template to masquerade the template owner. In addition, these concerns are aggravated since face is irreplaceable and irrevocable. In this paper, we propose a cancelable transform, namely nonlinear multidimension spectral hashing (NMDSH) to protect face template. Essentially, NMDSH utilizes a many-to-one function to transform real-valued deep face feature vector into binary code. The transformed template thus possesses strong non-invertible property. Next, a highly nonlinear softmod function is further adapted into the scheme to provide an additional layer of protection against similarity-based attack. The accuracy performance of NMDSH is evaluated. Experiment results suggest that NMDSH can preserve the accuracy performance largely. Properties including non-invertibility, revocability and resistance to similarity-based attack are also evaluated.<br/><img src='/images/nmdsh.png'>"
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Dong, Xingbo, KokSheik Wong, Zhe Jin, and Jean-luc Dugelay. "A cancellable face template scheme based on nonlinear multi-dimension spectral hashing." In 2019 7th International Workshop on Biometrics and Forensics (IWBF), pp. 1-6. IEEE, 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Dong, Xingbo, KokSheik Wong, Zhe Jin, and Jean-luc Dugelay. "A cancellable face template scheme based on nonlinear multi-dimension spectral hashing." In 2019 7th International Workshop on Biometrics and Forensics (IWBF), pp. 1-6. IEEE, 2019.

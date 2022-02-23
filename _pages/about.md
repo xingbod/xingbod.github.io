@@ -12,4 +12,3 @@ Xingbo Dong obtained his B.S. degree in Biotechnology from Huazhong Agriculture 
 
 Currently, he is pursuing a Ph.D. degree at Monash University. His research interests include Biometrics, Information Security, Computer Vision. He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.
 
-XX

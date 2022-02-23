@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I attended a agriculture university (HZAU) in Wuhan, central China. I once dream to be a biology scientist, and was a Cell and Molecular Biology PhD student in Viginia Tech, USA. But I withdraw this program due to some reasons, went back to China, dive to computer science.
+Xingbo Dong obtained his B.S. degree in Biotechnology from Huazhong Agriculture University (HZAU), China in 2014. He once was a molecular biology PhD student in Viginia Tech, USA, but withdraw later. 
 
-This is not easy. But finally I got a job from a tech company, where I write java on various applications. After two years and half, I received an admission offer from Monash Univeristy. Later I started my PhD life and worked on biometric security and computer vision. Now I have already graduated.
+Currently, he is pursuing a Ph.D. degree at Monash University. His research interests include Biometrics, Information Security, Computer Vision. He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.
+
 
 
 

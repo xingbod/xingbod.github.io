@@ -33,34 +33,8 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 ### Hi there 👋
 
-- 🌱 I’m a PhD. Candidate in .
-- 💬 Communicate with me:.
-- 📫 How to reach me: .
-- ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
-
 <a href="https://xingbod.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xingbod&count_private=true&show_icons=true" />
 </a>  
 
-<!--
-<a href="https://xingbod.github.io/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingbod&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
-</a>
--->
-
-
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

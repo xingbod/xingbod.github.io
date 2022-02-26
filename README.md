@@ -29,3 +29,38 @@ See more info at https://academicpages.github.io/
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+
+### Hi there 👋 I'm Libo Qin.
+
+- 🌱 I’m a PhD. Candidate in .
+- 💬 Communicate with me:.
+- 📫 How to reach me: .
+- ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
+
+<a href="https://xingbod.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xingbod&count_private=true&show_icons=true" />
+</a>  
+
+<!--
+<a href="https://xingbod.github.io/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingbod&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
+</a>
+-->
+
+
+
+
+
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+

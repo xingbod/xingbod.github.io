@@ -1,5 +1,6 @@
 ---
 layout: single-post
+date: 2015-01-30
 title: 这样深的夜，你赴的是什么约？
 ---
 

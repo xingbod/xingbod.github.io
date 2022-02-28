@@ -1,6 +1,5 @@
 ---
 date: 2015-01-28
-layout: single-post
 title: 梵高的画·生命灿烂
 ---
 

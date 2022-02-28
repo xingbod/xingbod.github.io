@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: Kon Rong 小记
 ---
 

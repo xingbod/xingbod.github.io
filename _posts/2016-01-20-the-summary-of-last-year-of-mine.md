@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 大雪兆丰年
 ---
 

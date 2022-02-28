@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 深圳来电(1)
 ---
 

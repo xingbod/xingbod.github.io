@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 霜降手札
 ---
 <p>

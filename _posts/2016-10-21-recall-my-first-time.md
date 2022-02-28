@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 回忆人生中的那几多第一次
 ---
 

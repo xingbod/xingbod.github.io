@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: Salzburg 来电(2)
 ---
 

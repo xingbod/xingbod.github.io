@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: New Year New Life
 ---
 

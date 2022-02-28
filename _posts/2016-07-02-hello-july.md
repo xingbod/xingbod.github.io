@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 你好，七月
 ---
 

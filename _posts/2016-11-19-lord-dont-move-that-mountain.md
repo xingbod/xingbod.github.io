@@ -1,6 +1,5 @@
 ---
-layout: single-post
-title: Lord don't move that mountain
+title: Lord don't move that mountain
 ---
 
 Lord,请赐予我力量，让我过了明天这道难关。
@@ -9,7 +8,7 @@ Lord,请赐予我力量，让我过了明天这道难关。
 
 不过幸运的是，无论结果如何，总会有相应的道路给我走。若是去不了swinburne tech，那我就回大中国好啦。
 
-耳边响起Etta James的Lord don't move that mountain，第一次听是在幸福来敲门影片中，着迷于歌词中的每一句话。如果再给我一次机会问我，would you like to hand yourself to lord，我一定会说，我愿意。
+耳边响起Etta James的Lord don't move that mountain，第一次听是在幸福来敲门影片中，着迷于歌词中的每一句话。如果再给我一次机会问我，would you like to hand yourself to lord，我一定会说，我愿意。
 
 Lord don't move the mountain,
 But give me strength to climb it

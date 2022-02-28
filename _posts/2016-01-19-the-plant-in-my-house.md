@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 球员·开心·圆荷
 ---
 

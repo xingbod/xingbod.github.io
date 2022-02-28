@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 首尔来电(1)
 ---
 如唔：

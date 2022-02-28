@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 歌曲故事(1)
 ---
 

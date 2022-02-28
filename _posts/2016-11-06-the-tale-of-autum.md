@@ -1,5 +1,4 @@
 ---
-layout: single-post
 title: 11月的秋日私语
 ---
 

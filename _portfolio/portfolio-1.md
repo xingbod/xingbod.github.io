@@ -1,6 +1,6 @@
 ---
-title: "USA Time"
-excerpt: "<img src='/images/DSC_0897_11.jpg' width="710" />"
+title: "Life"
+excerpt: "<img src='/images/DSC_0897_11.jpg' width=710 />"
 collection: portfolio
 ---
 

@@ -11,6 +11,16 @@ redirect_from:
 
 Under construction. 
 
+<div class="logo">
+<a href=""><img src="/images/logo/HZAU.png"></a>
+<a href=""><img src="/images/logo/monash.png"></a>
+<a href=""><img src="/images/logo/Salzburg.png"></a>
+<a href=""><img src="/images/logo/Tsinghua.png"></a>
+<a href=""><img src="/images/logo/uniss.png"></a>
+<a href=""><img src="/images/logo/vt.jpg"></a>
+<a href=""><img src="/images/logo/yonsei.jpg"></a>
+</div>
+
 <!-- Xingbo Dong obtained his Ph.D. degree in CS from Monash University and B.S. degree in Biotechnology from Huazhong Agriculture University (HZAU), China in 2014. He once was a molecular biology PhD student in Viginia Tech, USA, but withdraw later. 
 
 He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.

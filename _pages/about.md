@@ -14,9 +14,10 @@ Under construction.
 <div class="logo">
 <a href=""><img src="/images/logo/HZAU.jpg" style="height: 100px;"></a>
 <a href=""><img src="/images/logo/monash.png" style="height: 100px;"></a>
+<a href=""><img src="/images/logo/yonsei.jpg" style="height: 100px;"></a>
 <a href=""><img src="/images/logo/Tsinghua.png" style="height: 100px;"></a>
 <a href=""><img src="/images/logo/vt.jpg" style="height: 100px;"></a>
-<a href=""><img src="/images/logo/yonsei.jpg" style="height: 100px;"></a>
+<a href=""><img src="/images/logo/TCL.png" style="height: 100px;"></a>
 <a href=""><img src="/images/logo/uniss.png" style="height: 100px;"></a>
 <a href=""><img src="/images/logo/Salzburg.png" style="height: 100px;"></a>
 </div>

@@ -14,17 +14,27 @@ Under construction.
 
 
 
-<div class="logo">
-<a href=""><img src="/images/logo/HZAU.jpg" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/monash.png" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/yonsei.jpg" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/Tsinghua.png" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/vt.jpg" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/TCL.png" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/EURECOM.jpg" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/uniss.png" style="height: 80px;"></a>
-<a href=""><img src="/images/logo/Salzburg.png" style="height: 80px;"></a>
-</div>
+[comment]: <> (<div class="logo">)
+
+[comment]: <> (<a href=""><img src="/images/logo/monash.png" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/HZAU.jpg" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/yonsei.jpg" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/Tsinghua.png" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/vt.jpg" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/TCL.png" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/EURECOM.jpg" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/uniss.png" style="height: 80px;"></a>)
+
+[comment]: <> (<a href=""><img src="/images/logo/Salzburg.png" style="height: 80px;"></a>)
+
+[comment]: <> (</div>)
 
 <!-- Xingbo Dong obtained his Ph.D. degree in CS from Monash University and B.S. degree in Biotechnology from Huazhong Agriculture University (HZAU), China in 2014. He once was a molecular biology PhD student in Viginia Tech, USA, but withdraw later. 
 

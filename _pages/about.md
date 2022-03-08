@@ -20,8 +20,8 @@ Under construction.
 
 <div class="logo">
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>
-<a ><img src="/images/logo/HZAU.jpg" style="height: 40px;"></a>
-<a ><img src="/images/logo/yonsei.jpg" style="height: 40px;"></a>
+<a ><img src="/images/logo/hzau.png" style="height: 40px;"></a>
+<a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/Tsinghua.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/vt.jpg" style="height: 40px;"></a>
 <a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>

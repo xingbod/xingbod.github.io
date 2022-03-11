@@ -11,13 +11,24 @@ redirect_from:
 
 Under construction. 
 
+[comment]: <> (I am a Post-Doc at Yonsei University. )
+
+[comment]: <> (I received my Ph.D. degree from the School of IT, the Monash University &#40;Malaysia Campus&#41;.)
+
+[comment]: <> (Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural University.)
+
+[comment]: <> (My current research focuses on image processing, pattern recognition.)
+
 
 <br/>
+<br/><br/>
+<br/><br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 <div class="logo">
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/hzau.png" style="height: 40px;"></a>

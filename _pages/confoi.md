@@ -19,6 +19,6 @@ author_profile: false
 
 [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/):  China Computer Federation
 
-NRF-K: National Research Foundation of Korea, it assigns a equivalent impact factor (IF) to conferences based on their tier rank.
+NRF-K: National Research Foundation of Korea, it assigns an equivalent impact factor (IF) to conferences based on quality.
 
 

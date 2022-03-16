@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Conferences of interest"
 permalink: /confoi/
 author_profile: false

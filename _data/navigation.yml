@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Conferences of interest"
+    url: /confoi/
+
 #  - title: "Talks"
 #    url: /talks/
 #
@@ -21,3 +24,4 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
+#

@@ -9,14 +9,23 @@ redirect_from:
 ---
 
 
-I am a Post-Doc at Yonsei University. My current research focuses on image processing, pattern recognition.
+Under construction. 
 
-I received my Ph.D. degree from the School of IT, the Monash University (Malaysia Campus).
-Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural University.
+[comment]: <> (I am a Post-Doc at Yonsei University. )
+
+[comment]: <> (I received my Ph.D. degree from the School of IT, the Monash University &#40;Malaysia Campus&#41;.)
+
+[comment]: <> (Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural University.)
+
+[comment]: <> (My current research focuses on image processing, pattern recognition.)
 
 
-
-
+<br/>
+<br/><br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>

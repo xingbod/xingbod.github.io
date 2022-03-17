@@ -5,7 +5,7 @@ permalink: /confoi/
 author_profile: false
 ---
 
-{% include base_path %}
+#Conferences of interest 
 
 | Short Name| Conference | Tier (CCF/NRF-K) | Where  | When| Deadline|
 | :----------------------- | :--------------------------------------------------------------------------------- | :--------------------| :----------------- | :----------------------- | :--------- |

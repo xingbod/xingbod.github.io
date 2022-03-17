@@ -37,5 +37,4 @@ I also spent wonderful time at TCL Research as a intern CV resercher in 2021.
 
 
 
-
 [comment]: <> (He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.)

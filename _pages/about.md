@@ -9,23 +9,14 @@ redirect_from:
 ---
 
 
-Under construction. 
+I am a Post-Doc at Yonsei University. My current research focuses on image processing, pattern recognition.
 
-[comment]: <> (I am a Post-Doc at Yonsei University. )
-
-[comment]: <> (I received my Ph.D. degree from the School of IT, the Monash University &#40;Malaysia Campus&#41;.)
-
-[comment]: <> (Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural University.)
-
-[comment]: <> (My current research focuses on image processing, pattern recognition.)
+I received my Ph.D. degree from the School of IT, the Monash University (Malaysia Campus).
+Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural University.
 
 
-<br/>
-<br/><br/>
-<br/><br/>
-<br/>
-<br/>
-<br/>
+
+
 <br/>
 <br/>
 <br/>
@@ -41,9 +32,3 @@ Under construction.
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
 </div>
 
-<!-- Xingbo Dong obtained his Ph.D. degree in CS from Monash University and B.S. degree in Biotechnology from Huazhong Agriculture University (HZAU), China in 2014. He once was a molecular biology PhD student in Viginia Tech, USA, but withdraw later. 
-
-He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.
-
-
- -->

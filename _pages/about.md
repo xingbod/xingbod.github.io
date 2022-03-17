@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/). My current research focuses on image processing, pattern recognition.
+I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/). My current research focuses on image processing, pattern recognition. 
 
-I received my Ph.D. degree from the School of IT, the [Monash University](https://monash.edu/) (Malaysia Campus).
+I received my Ph.D. degree from the School of IT, the [Monash University](https://monash.edu/) (Malaysia Campus). 
 Before that, I received my B.Sci. degree in Biotech from [Huazhong Agricultural University](http://www.hzau.edu.cn/). 
 I was briefly enrolled (2014.6-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech before I decided to withdraw and became a Java software engineer. 
 

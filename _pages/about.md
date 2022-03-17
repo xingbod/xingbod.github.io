@@ -21,6 +21,7 @@ Including with [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EU
 with [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 with [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I also visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Gloabl Research Exchange grant.
+I also spent wonderful time at TCL Research as a intern CV resercher in 2021. 
 
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
@@ -31,10 +32,10 @@ I also visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/c
 <a ><img src="/images/logo/EURECOM.jpg" style="height: 40px;"></a>
 <a ><img src="/images/logo/uniss.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
+<a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>
 </div>
 
 
 
-[comment]: <> (<a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>)
 
 [comment]: <> (He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.)

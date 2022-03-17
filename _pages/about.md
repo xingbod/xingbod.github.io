@@ -24,9 +24,9 @@ I was briefly enrolled (2014.6-2014.12) as a Ph.D. student in molecular metaboli
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/Tsinghua.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/vt.jpg" style="height: 40px;"></a>
-<a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/EURECOM.jpg" style="height: 40px;"></a>
 <a ><img src="/images/logo/uniss.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
 </div>
 
+[comment]: <> (<a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>)

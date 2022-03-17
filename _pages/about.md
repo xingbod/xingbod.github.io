@@ -22,9 +22,6 @@ with [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University.
 I also visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, Shenzhen, for 6 months under the Monash Gloabl Research Exchange grant.
 
 
-
-<br/>
-<br/>
 <br/>
 <div class="logo">
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My current research focuses on image processing, pattern recognition. 
+I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My current research focuses on image processing, computer vision and pattern recognition, and is funded by South Korea Brain Pool (BP) Program. 
 
 I received my Ph.D. degree from the Faculty of Information Technology, the [Monash University](https://monash.edu/), where my advisor is Prof. Jin Zhe. 
 Before that, I received my B.Sci. degree in Biotech from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of [Prof. Yang Zaiqing](https://lst.hzau.edu.cn/szdw/txjzg.htm). 

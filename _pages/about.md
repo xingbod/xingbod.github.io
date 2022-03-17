@@ -18,12 +18,6 @@ Before that, I received my B.Sci. degree in Biotech from Huazhong Agricultural U
 
 
 <br/>
-<br/><br/>
-<br/><br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <div class="logo">

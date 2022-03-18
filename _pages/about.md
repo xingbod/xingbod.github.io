@@ -41,6 +41,7 @@ I also spent wonderful intern time at TCL Research in 2021.
 
 News
 ======
-* [2022/03/02] &nbsp; Two papers are accepted in CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark).
+* [2022/03/02] &nbsp; Our one work on low-light image enhacement is accepted by CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark).
+* [2022/03/02] &nbsp; Our one work on video action recogntion is accepted by CVPR 2022. 
 * 
 [comment]: <> (He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.)

@@ -14,14 +14,14 @@ I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea,
 I received my Ph.D. degree from the Faculty of Information Technology, the [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate supervisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biotech from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
 I was briefly enrolled (2014.6-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA),
-and later I decided to withdraw and worked as a Java software engineer for alomost 3 years (to save enough money for Monash). 
+and later I decided to withdraw and worked as a Java software engineer for almost 3 years (to save enough money for Monash). 
 
 During my PhD (2018-2021), I visited and worked with EU professors as a visiting PhD student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
 Including with [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, on thermal face recogntion, 
 with [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 with [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Gloabl Research Exchange grant.
-I also spent wonderful time at TCL Research as a intern CV resercher in 2021. 
+I also spent wonderful intern time at TCL Research in 2021. 
 
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>

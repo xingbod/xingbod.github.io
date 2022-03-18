@@ -37,4 +37,8 @@ I also spent wonderful intern time at TCL Research in 2021.
 
 
 
+News
+======
+* [2022/03/02] &nbsp; Two papers are accepted in CVPR 2022.
+* 
 [comment]: <> (He served as a visiting scholar under Marie Sklodowska-Curie Actions through the project entitled Computer Vision Enabled Multimedia Forensics and People Identication.)

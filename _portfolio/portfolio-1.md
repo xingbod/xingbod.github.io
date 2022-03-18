@@ -1,6 +1,6 @@
 ---
 title: "Memory"
-excerpt: "<img src='/images/DSC_0897_11.jpg' width=710 />"
+excerpt: ""
 collection: portfolio
 ---
 

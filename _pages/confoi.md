@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: archive
 title: "Conferences of interest"
 permalink: /confoi/
 author_profile: false
 ---
 
-#Conferences of interest 
+
+Conferences of interest 
+======
+
 
 | Short Name| Conference | Tier (CCF/NRF-K) | Where  | When| Deadline|
 | :----------------------- | :--------------------------------------------------------------------------------- | :--------------------| :----------------- | :----------------------- | :--------- |

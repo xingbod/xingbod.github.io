@@ -2,12 +2,8 @@
 layout: archive
 title: "Conferences of interest"
 permalink: /confoi/
-author_profile: false
+author_profile: True
 ---
-
-
-Conferences of interest 
-======
 
 
 | Short Name| Conference | Tier (CCF/NRF-K) | Where  | When| Deadline|

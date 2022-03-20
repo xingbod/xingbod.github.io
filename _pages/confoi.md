@@ -35,30 +35,3 @@ author_profile: True
 [NRF-K](/files/변경후-BK21 플러스 사업 CS분야 우수국제학술대회 목록 개선 결과 및 적용 기준(180306).pdf): National Research Foundation of Korea, it assigns an equivalent impact factor (IF) to conferences based on quality.
 
 
-[comment]: <> (| Short Name| Conference | Tier &#40;CCF/NRF-K&#41; | Where  | When| Deadline|)
-
-[comment]: <> (| :----------------------- | :--------------------------------------------------------------------------------- | :--------------------| :----------------- | :----------------------- | :--------- |)
-
-[comment]: <> (| [BMVC 2022]&#40;https://britishmachinevisionassociation.github.io/bmvc&#41; | The British Machine Vision Conference |C| ? | ? | Jun. 2022 Abstract |)
-
-[comment]: <> (| [neurIPS 2022]&#40;https://nips.cc/&#41; | Thirty-sixth Conference on Neural Information Processing Systems |A/4IF| New Orleans| Nov.28-Dec. 9, 2022 | 16th/05/2022 Abstract |)
-
-[comment]: <> (| [ACCV 2022]&#40;https://accv2022.org/en/CALL-FOR-PAPERS.html&#41; | 16th Asian Conference on Computer Vision |C/1IF| Macau, SAR| Dec.4-8, 2022 | 6th/07/2022 |)
-
-[comment]: <> (| [ACM MM 2022]&#40;https://2022.acmmm.org/important-dates/&#41; | ACM Multimedia |A/4IF| Lisbon  | Oct.10 - 14 , 2022 | 31/03/2022&#40;abstract&#41; |)
-
-[comment]: <> (| BIOSIG 2022| 21th International Conference of the Biometrics Special Interest Group &#40;BIOSIG'22&#41; | - | Darmstadt, Germany | Sept 14 - Sept16, 2022 | 15/06/2022 |)
-
-[comment]: <> (| [IJCB 2022]&#40;https://ijcb2022.org/&#41;  | International Joint Conference on Biometrics &#40;IJCB'22&#41; | C | Abu Dhabi, VAE  | Oct24 - 27, 2022  | 15/04/2022 |)
-
-[comment]: <> (| ICIP 2022  | IEEE Int. Conference on Image Processing &#40;ICIP'22&#41;| C | Bordeaux, France| Oct16 - 19, 2022  | 16/02/2022 |)
-
-[comment]: <> (| ICPR 2022  | 26nd International Conference on Pattern Recognition | C/1IF | Montreal, Canada| Aug21 - 25, 2022  | 17/01/2022 |)
-
-[comment]: <> (| IJCAI2022 | International Joint Conference on Artificial Intelligence	 |A| - | - | 2022.1.7 |)
-
-[comment]: <> (| ICML2022 | The Thirty-ninth International Conference on Machine Learning|A| - | - | 2022.1.27 |)
-
-[comment]: <> (| ICLR2022 | The Tenth International Conference on Learning Representations	 |-| - | - | 2021.10.5 |)
-
-

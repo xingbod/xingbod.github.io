@@ -35,3 +35,6 @@ author_profile: True
 [NRF-K](/files/변경후-BK21 플러스 사업 CS분야 우수국제학술대회 목록 개선 결과 및 적용 기준(180306).pdf): National Research Foundation of Korea, it assigns an equivalent impact factor (IF) to conferences based on quality.
 
 
+[A List of Computer Vision and Image Processing Conferences](https://taniai.space/cvconf/)
+
+[Acceptance ratio of some Theoretical Computer Science (TCS) Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)

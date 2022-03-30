@@ -43,24 +43,3 @@ News
 ======
 * [2022/03/02] &nbsp; Our one work on low-light image enhacement is accepted by CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark).
 * [2022/03/02] &nbsp; Our one work on video action recogntion is accepted by CVPR 2022. 
-
-<a name="publications"></a>
-
-Selected Publications
-======
-<br>
-<font size=3>
-
-<b>Abandoning the Bayer-Filter to See in the Dark</b><br>
-<b>Xingbo Dong</b>*, Wanyan Xu*, Zhihui Miao, Lan Ma, Chao Zhang, Jiewen Yang, Zhe Jin, Andrew Beng Jin Teoh, Jiajun Shen<br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</i>
-[<a href="https://arxiv.org/abs/2203.04042">arXiv</a>] [<a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark">Code</a>]
-<br>
-<br>
-<b>Recurring the Transformer for Video Action Recognition</b><br>
-Jiewen Yang, <b>Xingbo Dong</b>, Liujun Liu, Chao Zhang, Jiajun Shen,Dahai Yu<br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</i><br>
-<br>
-<br>
-<h4> <a href="publications">Full Publication List</a></h4>
-</font>

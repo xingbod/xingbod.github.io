@@ -49,17 +49,18 @@ News
 Selected Publications
 ======
 <br>
+<font size=3>
 
 <b>Abandoning the Bayer-Filter to See in the Dark</b><br>
 <b>Xingbo Dong</b>*, Wanyan Xu*, Zhihui Miao, Lan Ma, Chao Zhang, Jiewen Yang, Zhe Jin, Andrew Beng Jin Teoh, Jiajun Shen<br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</i><br>
-<font size=3>[<a href="https://arxiv.org/abs/2203.04042">arXiv</a>] [<a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark">Code</a>]
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</i>
+[<a href="https://arxiv.org/abs/2203.04042">arXiv</a>] [<a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark">Code</a>]
 <br>
-
+<br>
 <b>Recurring the Transformer for Video Action Recognition</b><br>
 Jiewen Yang, <b>Xingbo Dong</b>, Liujun Liu, Chao Zhang, Jiajun Shen,Dahai Yu<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</i><br>
 <br>
-
+<br>
 <h4> <a href="publications">Full Publication List</a></h4>
-
+</font>

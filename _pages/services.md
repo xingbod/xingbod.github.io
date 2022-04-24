@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /services/
 title: "Services"
 excerpt: "Services"
 author_profile: true
-redirect_from: 
-  - /services/
-  - /services.html
 ---
 
 Talks

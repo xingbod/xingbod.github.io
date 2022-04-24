@@ -17,7 +17,7 @@ I was briefly enrolled (2014.6-2014.12) as a Ph.D. student in molecular metaboli
 and later I decided to withdraw and worked as a Java software engineer for almost 3 years (to save enough money for Monash). 
 
 During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
-Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, on thermal face recogntion, 
+Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
 [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Gloabl Research Exchange grant.

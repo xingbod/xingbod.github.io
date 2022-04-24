@@ -1,14 +1,18 @@
 ---
+layout: archive
 permalink: /services/
 title: "Services"
 excerpt: "Services"
 author_profile: true
 ---
 
+{% include base_path %}
+
+
 Talks
 ======
-* [2021/08/01] "Learning a hashing to protect face", Chinese University of Hong Kong (CUHK). 
 * [2022/04/08] "In light of computational photography and low-light image enhancement", Universiti Malaya.
+* [2021/08/01] "Learning a hashing to protect face", Chinese University of Hong Kong (CUHK). 
 
 
 Journal Article Reviewers

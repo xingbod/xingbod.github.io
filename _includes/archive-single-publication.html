@@ -24,10 +24,12 @@
           {% endif %}
           alt="">
         <div style="display: grid;justify-content: center;align-content: center;align-items: center;justify-items: center;">
-          <a {% if not post.giturl %} style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;" {% endif %} href="{{ post.giturl }}" >
+<!--          <a {% if not post.giturl %}  style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;" {% endif %} href="{{ post.giturl }}" >-->
+          <a  href="{{ post.giturl }}" >
             <img src="/images/GitHub-Mark.png" style="width: 50%;" alt="GitHub">
           </a>
-          <a href="{{ post.paperurl}}" {% if not post.paperurl %} style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;"  {% endif %}>
+<!--          <a href="{{ post.paperurl}}" {% if not post.paperurl %} style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;"  {% endif %}>-->
+          <a href="{{ post.paperurl}}" >
             <img src="/images/arxiv-logo-1.png" style="width: 50%;" alt="Arxiv">
           </a>
         </div>
@@ -66,7 +68,13 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <p class="archive__item-excerpt" itemprop="description">
+    <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+    <strong>
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
+    </strong>
+    </p>
+    </p>
     {% endif %}
     
 

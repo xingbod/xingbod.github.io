@@ -23,7 +23,7 @@ Journal Article Reviewers
 * IET Information Security
 * IET Biometrics
 * Elsevier Journal of Information Security and Applications
-
+* IEEE Transactions on Consumer Electronics
 
 Conference Article Reviewers
 ======

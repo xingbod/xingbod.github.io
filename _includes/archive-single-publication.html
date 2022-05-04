@@ -24,12 +24,12 @@
           {% endif %}
           alt="">
         <div style="display: grid;justify-content: center;align-content: center;align-items: center;justify-items: center;">
-          {% if post.giturl %}
-          <a href="{{ post.giturl }}" style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;"><img src="/images/GitHub-Mark.png" style="width: 50%;"></a>
-          {% endif %}
-          {% if post.paperurl %}
-          <a href="{{ post.paperurl}}" style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;"><img src="/images/arxiv-logo-1.png" style="width: 50%;"></a>
-          {% endif %}
+          <a {% if not post.giturl %} style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;" {% endif %} href="{{ post.giturl }}" >
+            <img src="/images/GitHub-Mark.png" style="width: 50%;" alt="GitHub">
+          </a>
+          <a href="{{ post.paperurl}}" {% if not post.paperurl %} style="-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;"  {% endif %}>
+            <img src="/images/arxiv-logo-1.png" style="width: 50%;" alt="Arxiv">
+          </a>
         </div>
       </div>
     {% endif %}

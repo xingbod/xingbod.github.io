@@ -9,44 +9,56 @@ author_profile: true
 
 <style>
 .na {-webkit-filter: grayscale(1); /* Webkit */;filter: gray; /* IE6-9 */;filter: grayscale(1); /* W3C */;}
-.pubgrid {display: grid;justify-content: center;align-content: center;align-items: center;justify-items: center;}
-#Div1 {float:left; width:70%;}
-#Div2 {width:30%; float:right;}
-
-.outer {
+.grid-container {
   display: grid;
-  grid-template: 1fr / 1fr;
-  place-items: center;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "aside Div1"
+    "aside Div2";
 }
-.outer > * {
-  grid-column: 1 / 1;
-  grid-row: 1 / 1;
-}
-.outer .below {
-  z-index: 2;
-}
-.outer .top {
-  z-index: 1;
-}
+.Div1 { grid-area: Div1; width:20%}
+.Div2 { grid-area: Div2; width:20%}
+.aside { grid-area: aside; width:80%}
 </style>
 
-
-
-<div class="list__item" style="margin: 15px;" style="height: 200px;">
+<div class="list__item" style="margin: 5px;border-bottom:1px gray dashed; " >
 <article class="archive__item"  itemscope="" itemtype="http://schema.org/CreativeWork">
 <p><b>Xingbo Dong*</b>, Wanyan Xu*, Zhihui Miao, Lan Ma, Chao Zhang, Jiewen Yang, Zhe Jin, Andrew Beng Jin Teoh, Jiajun Shen, "Abandoning the Bayer-Filter to See in the Dark". In CVPR 2022 : IEEE/CVF Conference on Computer Vision and Pattern Recognition. </p>
 <p class="archive__item-excerpt" itemprop="description">Some descrip...</p>
-<div id="Div1" style="height: 50%;">
-<img src="/images/publications/debayer.png">
-</div>
-<div id="Div2" class="outer" >
-<a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark" class="top">
-<img src="/images/GitHub-Mark.png"  alt="GitHub">
-</a>
-<a href="https://arxiv.org/pdf/2203.04042" class="below">
-<img src="/images/arxiv-logo-1.png"  alt="Arxiv">
-</a>
+<div class="grid-container">
+    <div class="aside"><img src="/images/publications/debayer.png" ></div>
+    <div id="Div2" class="grid-container">
+    <div class="Div1" >
+    <a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark" >
+    <img src="/images/GitHub-Mark.png"  alt="GitHub" style="width:300px"></a>
+    </div>
+    <div class="Div2">
+    <a href="https://arxiv.org/pdf/2203.04042">
+        <img src="/images/arxiv-logo-1.png"  alt="Arxiv" style="width:300px"></a>
+    </div>
+    </div>
 </div>
 </article>
 </div>
 
+<div class="list__item" style="margin: 5px;border-bottom:1px gray dashed; " >
+<article class="archive__item"  itemscope="" itemtype="http://schema.org/CreativeWork">
+<p><b>Xingbo Dong*</b>, Wanyan Xu*, Zhihui Miao, Lan Ma, Chao Zhang, Jiewen Yang, Zhe Jin, Andrew Beng Jin Teoh, Jiajun Shen, "Abandoning the Bayer-Filter to See in the Dark". In CVPR 2022 : IEEE/CVF Conference on Computer Vision and Pattern Recognition. </p>
+<p class="archive__item-excerpt" itemprop="description">Some descrip...</p>
+<div class="grid-container">
+    <div class="aside"><img src="/images/publications/debayer.png" ></div>
+    <div id="Div2" class="grid-container">
+    <div class="Div1" >
+    <a href="https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark" >
+    <img src="/images/GitHub-Mark.png"  alt="GitHub" style="width:300px"></a>
+    </div>
+    <div class="Div2">
+    <a href="https://arxiv.org/pdf/2203.04042">
+        <img src="/images/arxiv-logo-1.png"  alt="Arxiv" style="width:300px"></a>
+    </div>
+    </div>
+</div>
+</article>
+</div>

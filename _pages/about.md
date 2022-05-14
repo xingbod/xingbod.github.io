@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My current research focuses on image processing, computer vision and pattern recognition, and is funded by South Korea Brain Pool (BP) Program. 
+I am a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My current research funded by South Korea Brain Pool (BP) Program focuses on image processing, computer vision and pattern recognition. 
 
 I received my Ph.D. degree from the Faculty of Information Technology, the [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate supervisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
-Before that, I received my B.Sci. degree in Biotech from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
+Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
 I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA),
 and later I decided to withdraw and worked as a Java software engineer for almost 3 years (to save enough money for Monash). 
 

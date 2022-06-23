@@ -11,7 +11,8 @@ author_profile: true
 
 Talks
 ======
-* [2022/04/08] "In light of computational photography and low-light image enhancement", Universiti Malaya.
+* [2022/05/20] "Learning to remove the Bayer-Filter of your camera to see in the dark", Institute for Basic Science (IBS).
+* [2022/04/08] "In light of computational photography and low-light image enhancement", Universiti Malaya (UM).
 * [2021/08/01] "Learning a hashing to protect face", Chinese University of Hong Kong (CUHK). 
 
 
@@ -19,15 +20,16 @@ Journal Article Reviewers
 ======
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Biometrics, Behavior, and Identity Science
+* IEEE Transactions on Consumer Electronics
 * IEEE Access
 * IET Information Security
 * IET Biometrics
 * Elsevier Journal of Information Security and Applications
-* IEEE Transactions on Consumer Electronics
 
 Conference Article Reviewers
 ======
-* ACM International Conference on Multimedia (2021,2022)
+* European Conference on Computer Vision (ECCV 2022)
+* ACM International Conference on Multimedia (ACM MM 2021,2022)
 * International Conference on Pattern Recognition (ICPR 2021,2022)
-* International Joint Conference on Biometrics (IJCB 2021)
+* International Joint Conference on Biometrics (IJCB 2021，2022)
 

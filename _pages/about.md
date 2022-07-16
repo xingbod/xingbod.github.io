@@ -41,7 +41,7 @@ I also spent wonderful intern time at TCL Research in 2021.
 
 News
 ======
-* [2022/07/02] &nbsp; Our one work on cancellable face identification is accepted by Pattern Recognition.
-* [2022/07/01] &nbsp; Our one work on Palmprint and Palmvein recognition is accepted by IEEE IoT.
+* [2022/07/02] &nbsp; Our one work on cancellable face identification is accepted by Pattern Recognition. :new: 
+* [2022/07/01] &nbsp; Our one work on Palmprint and Palmvein recognition is accepted by IEEE IoT. :new:
 * [2022/03/02] &nbsp; Our one work on low-light image enhacement is accepted by CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark). :fire: 
 * [2022/03/02] &nbsp; Our one work on video action recogntion is accepted by CVPR 2022. :fire: 

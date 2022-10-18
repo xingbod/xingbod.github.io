@@ -21,6 +21,9 @@ Journal Article Reviewers
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Biometrics, Behavior, and Identity Science
 * IEEE Transactions on Consumer Electronics
+* IEEE Transactions on Multimedia
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Access
 * IET Information Security
 * IET Biometrics

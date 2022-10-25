@@ -34,5 +34,5 @@ Conference Article Reviewers
 * European Conference on Computer Vision (ECCV 2022)
 * ACM International Conference on Multimedia (ACM MM 2021,2022)
 * International Conference on Pattern Recognition (ICPR 2021,2022)
-* International Joint Conference on Biometrics (IJCB 2021，2022)
+* International Joint Conference on Biometrics (IJCB 2021,2022)
 

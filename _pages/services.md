@@ -28,9 +28,11 @@ Journal Article Reviewers
 * IET Information Security
 * IET Biometrics
 * Elsevier Journal of Information Security and Applications
+* Pattern Recognition Letters
 
 Conference Article Reviewers
 ======
+* The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
 * European Conference on Computer Vision (ECCV 2022)
 * ACM International Conference on Multimedia (ACM MM 2021,2022)
 * International Conference on Pattern Recognition (ICPR 2021,2022)

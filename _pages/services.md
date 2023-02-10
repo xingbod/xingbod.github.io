@@ -25,6 +25,7 @@ Journal Article Reviewers
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Access
+* IEEE Transactions on Intelligent Transportation Systems
 * IET Information Security
 * IET Biometrics
 * Elsevier Journal of Information Security and Applications

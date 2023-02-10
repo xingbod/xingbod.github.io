@@ -19,7 +19,7 @@ During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiti
 Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
 [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
-I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Exchange grant.
+I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
 I also spent wonderful intern time at TCL Research in 2021. 
 
 <div class="logo">

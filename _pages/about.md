@@ -13,7 +13,7 @@ I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, 
 I am currently lecturing on:
 - Java programming and applications, 1.5 credits 
 - Advanced programming design (C), 3 credits
-- Introduction to robotics, 1 credits
+- Introduction to robotics, 1 credit
 
 I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 

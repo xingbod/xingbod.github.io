@@ -10,11 +10,6 @@ redirect_from:
 
 I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei is funded by the South Korea Brain Pool (BP) Program. My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
 
-Lecturing on:
-- Java programming and applications, 1.5 credits 
-- Advanced programming design (C), 3 credits
-- Introduction to robotics, 1 credit
-
 I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
 I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA),
@@ -26,6 +21,11 @@ Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM
 [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
 I also spent a wonderful intern time at TCL Research in 2021. 
+
+Teaching:
+- Java programming and applications, 1.5 credits, 2023
+- Advanced programming design (C), 3 credits, 2023
+- Introduction to robotics, 1 credit, 2023
 
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>

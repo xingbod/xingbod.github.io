@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei is funded by the South Korea Brain Pool (BP) Program. My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
 
-I am currently lecturing on:
+Lecturing on:
 - Java programming and applications, 1.5 credits 
 - Advanced programming design (C), 3 credits
 - Introduction to robotics, 1 credit

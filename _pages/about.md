@@ -11,9 +11,9 @@ redirect_from:
 I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei is funded by the South Korea Brain Pool (BP) Program. My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
 
 I am currently lecturing on:
-- Java programming and applications, 1.5 credit hours 
-- Advanced programming design (C), 3 credit hours
-- Introduction to robotics, 1 credit hours
+- Java programming and applications, 1.5 credits 
+- Advanced programming design (C), 3 credits
+- Introduction to robotics, 1 credits
 
 I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 

@@ -29,6 +29,12 @@ I also spent a wonderful intern time at TCL Research in 2021.
 - flexible scheduling of working；
 
 
+We expect you:
+- be self-motivated
+- coding is just a piece of cake for you
+- be responsible and positive
+- fluent English reading and writing is prefered but not a must 
+
 <br/>
 <br/>
 

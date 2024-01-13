@@ -22,16 +22,15 @@ Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
 I also spent a wonderful intern time at TCL Research in 2021. 
 
-Teaching:
-- Java programming and applications, 1.5 credits, 2023
-- Advanced programming design (C), 3 credits, 2023
-- Introduction to robotics, 1 credit, 2023
-
-Opening for master students and research interns, we offer:
+:fire: Accepting master students and research interns, we offer:
 - interesting research topics, and cutting-edge research projects, not only focus on research publications but also impactful achievement for society；
 - collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
 - assist you in finding interns from top-tier companies；
 - flexible scheduling of working；
+
+
+<br/>
+<br/>
 
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>

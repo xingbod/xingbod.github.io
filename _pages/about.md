@@ -27,6 +27,12 @@ Teaching:
 - Advanced programming design (C), 3 credits, 2023
 - Introduction to robotics, 1 credit, 2023
 
+Opening for master students and research interns, we offer:
+- interesting research topics, and cutting-edge research projects, not only focus on research publications but also impactful achievement for society；
+- collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
+- assist you in finding interns from top-tier companies；
+- flexible scheduling of working；
+
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>

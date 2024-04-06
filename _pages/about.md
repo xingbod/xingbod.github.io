@@ -26,9 +26,9 @@ I also spent a wonderful intern time at TCL Research in 2021.
 
 研究生招生：
 - 研究生入组前需参加一次编程测试（难度不大）和文献汇报，团队对研究生毕业要求比较高，但是在我们组认真开展研究的师兄师姐，其成果远超学校的基本要求，因此只要和团队紧密合作很容易达到毕业要求。团队也鼓励深挖重要的科研问题，注重论文质量而非数量。
-- 工作环境：实验室除了提供优秀的基本学习和生活环境以外，也提供较好的计算资源。实验室现有学生20多名（含本科生）, RTX3090, P40 等各种服务器工作站，同时也租用了学校HPC平台的V100服务器，计算资源充裕。
+- 工作环境：实验室除了提供优秀的基本学习和生活环境以外（师兄师姐非常supportive），也提供较好的计算资源。实验室现有学生20多名（含本科生）, RTX3090, P40 等各种服务器工作站(>24块并持续建设新的服务器中)，同时也租用了学校HPC平台的A800/V100s服务器（16块A800，10块V100），计算资源充裕。
 - 团队要求成员严格遵守学术规范。所有发表论文都要将代码开源（商业项目除外）。
-- 积极向上的心态，永不言弃的精神。
+- 需要你有积极向上的心态，永不言弃的精神，主动学习爱动脑的钻研能力。
 
 Accepting master students and research interns, we offer: 
 - interesting research topics, and cutting-edge research projects, not only focus on research publications but also seminal discoveries and impactful achievements for society；

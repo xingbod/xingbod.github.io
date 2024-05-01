@@ -22,11 +22,8 @@ Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
 I also spent a wonderful intern time at TCL Research in 2021. 
 
-
-<br/>
 You can use PGP to send encrypted messages to me. Please use my [Public PGP Key](/files/publicPGP.asc).
-使用PGP发邮件，请使用公钥 [Public PGP Key](/files/publicPGP.asc)。
-
+基于PGP发邮件，请使用公钥 [Public PGP Key](/files/publicPGP.asc)。
 
 :new: 
 
@@ -62,8 +59,6 @@ We expect you:
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>
 </div>
-<br/>
-<br/>
 <br/>
 
 

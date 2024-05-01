@@ -33,7 +33,7 @@ You can use PGP to send encrypted messages to me. Please use my [Public PGP Key]
 - 团队要求成员严格遵守学术规范。所有发表论文都要将代码开源（商业项目除外）。
 - 需要你有积极向上的心态，永不言弃的精神，主动学习爱动脑的钻研能力。
 
-Accepting master students and research interns, we offer: 
+Accepting master students and research interns (AHU students only), we offer: 
 - interesting research topics, and cutting-edge research projects, not only focus on research publications but also seminal discoveries and impactful achievements for society；
 - collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
 - assist you in finding interns from top-tier companies；

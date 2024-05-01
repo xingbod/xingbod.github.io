@@ -44,6 +44,11 @@ We expect you:
 - fluent English reading and writing is preferred but not a must 
 
 
+<br/>
+You can use PGP to send encrypted messages to me. Please use my [Public PGP Key](/files/publicPGP.asc).
+使用PGP发邮件，请使用公钥 [Public PGP Key](/files/publicPGP.asc)。
+
+
 
 <br/>
 <br/>

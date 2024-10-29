@@ -47,6 +47,15 @@ We expect you:
 
 <br/>
 
+Courses Taught：
+- Introduction to Artificial Intelligence (ZJ52014)
+- Introduction to Robotics (ZH52011)
+- Natural Language Processing (ZH52405)
+- Java Technology and Applications (ZX52340)
+- Natural Language Processing Lab (ZH52405)
+- Digitial Image Processing (Master student)
+
+  
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>

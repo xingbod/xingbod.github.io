@@ -12,8 +12,8 @@ I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, 
 
 I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
-I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA),
-and later I decided to withdraw and worked as a Java software engineer. 
+I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA).
+I also have some Java software engineer experience. 
 
 During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
 Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
@@ -53,9 +53,11 @@ Courses Taught：
 - Natural Language Processing (ZH52405)
 - Java Technology and Applications (ZX52340)
 - Natural Language Processing Lab (ZH52405)
-- Digitial Image Processing (Master student)
+- Digitial Image Processing (Postgraduate student)
 
   
+<br/>
+
 <div class="logo">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>

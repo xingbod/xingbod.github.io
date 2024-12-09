@@ -24,7 +24,7 @@ I also spent a wonderful intern time at TCL Research in 2021.
 
 Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me. 
 
-:fire: I am proudly a participant in a charity project (蓝信封行动) and was interviewed by this project, see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ)
+:fire: I am proudly a participant in a charity project (蓝信封行动) and was interviewed by this project, see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). 
 
 :new: 
 

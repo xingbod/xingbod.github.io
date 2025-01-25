@@ -62,8 +62,7 @@ Courses Taught：
   
 <br/>
 
-<--
-<div class="logo">
+<div class="logo" style="display: none;">
 <a ><img src="/images/logo/yonsei.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/monash.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/hzau.png" style="height: 40px;"></a>
@@ -74,7 +73,7 @@ Courses Taught：
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>
 </div>
--->
+
 
 <br/>
 

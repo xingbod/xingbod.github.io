@@ -57,6 +57,8 @@ Courses Taught：
 - Natural Language Processing Lab (ZH52405)
 - Digitial Image Processing (Postgraduate student)
 
+- Java Technology and Applications (ZX32004/ZX32005)-  affiliated with JiangHuai College
+
   
 <br/>
 

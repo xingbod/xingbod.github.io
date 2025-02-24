@@ -26,6 +26,8 @@ Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email
 
 :fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project, see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). 
 
+:fire: Our research on AI course design based on Blog Assignment was reported by national media, see the report at [here](http://guoqing.china.com.cn/2025-02/24/content_117729958.htm?f=pad&a=true) and [here](http://news.ahwang.cn/shangxun/20250224/2814966.html). 
+
 :new: 
 
 研究生招生：

@@ -36,6 +36,12 @@ Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email
 - 团队要求成员严格遵守学术规范。所有发表论文都要将代码开源（商业项目除外）。
 - 需要你有积极向上的心态，永不言弃的精神，主动学习爱动脑的钻研能力。
 
+**25届毕业生去向**：
+- 研究生就业：联想，比亚迪，中国化学数智科技，中国人寿
+- 研究生升学：湖南大学
+- 本科生升学：普渡大学，东南大学，北航，北理，莫纳什大学，西工等
+- 研究生实习：讯飞，虹软，滴滴等
+
 Accepting master students and research interns (AHU students only), we offer: 
 - interesting research topics, and cutting-edge research projects, not only focus on research publications but also seminal discoveries and impactful achievements for society；
 - collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
@@ -50,12 +56,6 @@ We expect you:
 - fluent English reading and writing is preferred but not a must 
 
 <br/>
-
-**25届毕业生去向**：
-- 研究生就业：联想，比亚迪，中国化学数智科技，中国人寿
-- 研究生升学：湖南大学
-- 本科生升学：普渡大学，东南大学，北航，北理，莫纳什大学，西工等
-- 研究生实习：讯飞，虹软，滴滴等
 
 Courses Taught：
 - Introduction to Artificial Intelligence (ZJ52014)

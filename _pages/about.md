@@ -51,6 +51,12 @@ We expect you:
 
 <br/>
 
+**25届毕业生去向**：
+- 研究生就业：联想，比亚迪，中国化学数智科技，中国人寿
+- 研究生升学：湖南大学
+- 本科生升学：普渡大学，东南大学，北航，北理，莫纳什大学，西工等
+- 研究生实习：讯飞，虹软，滴滴等
+
 Courses Taught：
 - Introduction to Artificial Intelligence (ZJ52014)
 - Introduction to Robotics (ZH52011)

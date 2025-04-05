@@ -39,7 +39,7 @@ Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email
 **25届毕业生去向**：
 - 研究生就业：联想，比亚迪，中国化学数智科技，中国人寿
 - 研究生升学：湖南大学
-- 本科生升学：普渡大学，东南大学，北航，北理，莫纳什大学，西工等
+- 进组本科生升学：普渡大学，东南大学，北航，北理，莫纳什，西工，西电，安大等
 - 研究生实习：讯飞，虹软，滴滴等
 
 Accepting master students and research interns (AHU students only), we offer: 

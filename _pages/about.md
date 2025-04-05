@@ -8,25 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei was funded by the South Korea Brain Pool (BP) Program and my research at Monash was funded by the MARIE SKŁODOWSKA-CURIE Fellowship (I am a BP fellowship and MSCA fellowship awardee). My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
+I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei was funded by the South Korea Brain Pool (BP) Program, and my research at Monash was funded by the MARIE SKŁODOWSKA-CURIE Fellowship (I am a BP fellowship and MSCA fellowship awardee). My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
 
-I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
+I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and the associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
 Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
 I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA).
-I also have some Java software engineer experience. 
 
 During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
 Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
 [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
-I also spent a wonderful intern time at TCL Research in 2021. 
+I also had a wonderful internship at TCL Research in 2021. 
 
 Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me. 
 
-:fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project, see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). 
+:fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project; see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). 
 
-:fire: Our research on AI course design based on Blog Assignment was reported by national media, see the report at [中国网china.com.cn](http://guoqing.china.com.cn/2025-02/24/content_117729958.htm?f=pad&a=true) and [安徽网ahwang](http://news.ahwang.cn/shangxun/20250224/2814966.html). 
+:fire: Our research on AI course design based on the Blog Assignment was reported by national media; see the report at [中国网china.com.cn](http://guoqing.china.com.cn/2025-02/24/content_117729958.htm?f=pad&a=true) and [安徽网ahwang](http://news.ahwang.cn/shangxun/20250224/2814966.html). 
 
 :new: 
 
@@ -43,13 +42,13 @@ Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email
 - 研究生实习：讯飞，虹软，滴滴等
 
 Accepting master students and research interns (AHU students only), we offer: 
-- interesting research topics, and cutting-edge research projects, not only focus on research publications but also seminal discoveries and impactful achievements for society；
+- interesting research topics and cutting-edge research projects, not only focusing on research publications but also seminal discoveries and impactful achievements for society；
 - collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
 - assist you in finding interns from top-tier companies；
 - flexible scheduling of working；
 
 
-We expect you:
+We expect you to:
 - be self-motivated
 - coding is just a piece of cake for you
 - be responsible and positive
@@ -63,8 +62,7 @@ Courses Taught：
 - Natural Language Processing (ZH52405)
 - Java Technology and Applications (ZX52340)
 - Natural Language Processing Lab (ZH52405)
-- Digitial Image Processing (Postgraduate student)
-
+- Digital Image Processing (Postgraduate student)
 - Java Technology and Applications (ZX32004/ZX32005)-  affiliated with JiangHuai College
 
   
@@ -89,6 +87,6 @@ Courses Taught：
 News
 ======
 * [2022/07/02] &nbsp; Our one work on cancellable face identification is accepted by Pattern Recognition. :new: 
-* [2022/07/01] &nbsp; Our one work on Palmprint and Palmvein recognition is accepted by IEEE IoT. :new:
-* [2022/03/02] &nbsp; Our one work on low-light image enhacement is accepted by CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark). :fire: 
-* [2022/03/02] &nbsp; Our one work on video action recogntion is accepted by CVPR 2022. :fire: 
+* [2022/07/01] &nbsp; Our one work on Palmprint and palm vein recognition is accepted by IEEE IoT. :new:
+* [2022/03/02] &nbsp; Our one work on low-light image enhancement is accepted by CVPR 2022. [Check the source code](https://github.com/TCL-AILab/Erase_Bayer-Filter_to_See_in_the_Dark). :fire: 
+* [2022/03/02] &nbsp; Our one work on video action recognition is accepted by CVPR 2022. :fire: 

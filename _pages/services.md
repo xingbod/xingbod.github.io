@@ -15,6 +15,7 @@ Talks
 * [2022/04/08] "In light of computational photography and low-light image enhancement", Universiti Malaya (UM).
 * [2021/08/01] "Learning a hashing to protect face", Chinese University of Hong Kong (CUHK). 
 
+I serve as a Guest Editor for the Symmetry Special Issue and as an AC for BMVC since 2024. 
 
 Journal Article Reviewers
 ======

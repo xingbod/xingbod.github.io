@@ -40,3 +40,13 @@ Conference Article Reviewers
 * International Conference on Pattern Recognition (ICPR 2021,2022)
 * International Joint Conference on Biometrics (IJCB 2021,2022)
 
+
+Courses Lectured：
+======
+- Introduction to Artificial Intelligence (ZJ52014)
+- Introduction to Robotics (ZH52011)
+- Natural Language Processing (ZH52405)
+- Java Technology and Applications (ZX52340)
+- Natural Language Processing Lab (ZH52405)
+- Digital Image Processing (Postgraduate student)
+- Java Technology and Applications (ZX32004/ZX32005)-  affiliated with JiangHuai College

@@ -15,11 +15,16 @@ Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural 
 I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA).
 
 During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
-Including [Prof. Jean-luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
+Including [Prof. Jean-Luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
 [Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
 [Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
 I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
 I also had a wonderful internship at TCL Research in 2021. 
+
+To date, I have published over 50 peer-reviewed articles [see here](https://dblp.org/pid/237/0125.html), in venues including CVPR, ECCV, WACV, AAAI, ICML, IEEE TIFS, Information Fusion, IEEE JBHI, and Pattern Recognition. These works reflect not only personal dedication but, more importantly, the collaborative effort of numerous talented colleagues, students, and mentors. In addition to academic publications, I have co-invented multiple patents—several of which have been granted—covering technologies related to PET image reconstruction, biometric fusion systems, and intelligent visual monitoring. These patents emerged from interdisciplinary teamwork and industrial collaborations, and I remain deeply appreciative of my co-inventors and industrial partners for their contributions and shared vision. 
+I have been fortunate to lead 5 research projects as Principal Investigator, including grants from the National Natural Science Foundation of China, the Korean NRF Brain Pool Program, and several regional and postdoctoral programs. In addition, I have participated in 3 major collaborative projects, including two NSFC General Programs and the EU Horizon 2020 Marie Curie RISE project. I’m grateful to all collaborators and funding agencies for their continued support.
+
+I have been a Guest Editor of the Symmetry journal since 2024. I also have served as an AC for BMVC since 2024.
 
 Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me. 
 

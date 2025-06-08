@@ -14,3 +14,5 @@ To date, I have published over 50 peer-reviewed articles [see here](https://dblp
 
 I actively mentor many undergraduate research interns. My teaching emphasizes student-centered innovation, including blog-based assignments, literature-driven learning, and peer review. These efforts reflect my ongoing commitment to supporting student growth both in and beyond the classroom. 
   
+
+:fire: Our research on AI course design based on the Blog Assignment was reported by national media; see the report at [here](http://guoqing.china.com.cn/2025-02/24/content_117729958.htm?f=pad&a=true) and [here](http://news.ahwang.cn/shangxun/20250224/2814966.html). 

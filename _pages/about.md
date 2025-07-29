@@ -16,7 +16,7 @@ I earned my **Ph.D. degree from the Faculty of Information Technology, [Monash U
 
 During my Ph.D. studies (2018-2021), I had the privilege of visiting and collaborating with several European professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the **[IDENTITY project](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/)**. These collaborations included working with **[Prof. Jean-Luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/)**, France; **[Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/)**, Italy; and **[Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University**, Austria. Additionally, I visited and worked with **[Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University**, China, supported by the Monash Global Research Excellence grant. In 2021, I also completed a wonderful internship at TCL Research.
 
-Since 2024, I have been a **Guest Editor for the *Symmetry* journal** and have served as an **Area Chair (AC) for BMVC**. I also serve as an Editor for *Scientific Reports* (SR).
+Since 2024, I have been a Guest Editor for the Symmetry journal and have served as an Area Chair (AC) for BMVC. I also serve as an Editor for SR.
 
 Please feel free to use my [Public PGP Key](https://www.google.com/search?q=/files/publicPGP.asc) when you email me.
 

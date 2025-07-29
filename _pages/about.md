@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China. I am also affiliated as a postdoctoral researcher with Tong Ling Tian Hai Flow Control Co., LTD. I was previously a Post-Doc at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research at Yonsei was funded by the South Korea Brain Pool (BP) Program, and my research at Monash was funded by the MARIE SKŁODOWSKA-CURIE Fellowship (I am a BP fellowship and MSCA fellowship awardee). My research focuses on image processing (both medical and natural), computer vision, and pattern recognition. 
+I am currently a **Lecturer at [Anhui University](https://en.ahu.edu.cn/)**, Hefei, China, and also affiliated as a Postdoctoral Researcher with Tong Ling Tian Hai Flow Control Co., LTD.
 
-I received my Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/), where my main advisor is [Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ), and the associate advisor is [Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao). 
-Before that, I received my B.Sci. degree in Biology from [Huazhong Agricultural University](http://www.hzau.edu.cn/), Wuhan, China, under the supervision of Prof. Yang Zaiqing. 
-I was briefly enrolled (2014.8-2014.12) as a Ph.D. student in molecular metabolism at Virginia Tech (Virginia, USA).
+Previously, I was a **Postdoctoral Researcher at [Yonsei University](https://www.yonsei.ac.kr/)**, Seoul, Korea, under the supervision of **[Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en)**. My research there was funded by the prestigious **South Korea Brain Pool (BP) Program**, and my research at Monash was funded by the **MARIE SKŁODOWSKA-CURIE Fellowship**. I am proud to be a BP fellowship and MSCA fellowship awardee. My research expertise lies in **image processing** (both medical and natural), **computer vision**, and **pattern recognition**.
 
-During my Ph.D. (2018-2021), I visited and worked with EU professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the [IDENTITY](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/) project.
-Including [Prof. Jean-Luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/), France, 
-[Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/), Italy,
-[Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University, Austria. 
-I visited and worked with [Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University, China, under the Monash Global Research Excellence grant.
-I also had a wonderful internship at TCL Research in 2021. I have been a Guest Editor of the Symmetry journal since 2024. I also have served as an AC for BMVC since 2024.
+I earned my **Ph.D. degree from the Faculty of Information Technology, [Monash University](https://monash.edu/)**, with **[Prof. Jin Zhe](https://scholar.google.com/citations?hl=en&user=N-szqToAAAAJ)** as my main advisor and **[Prof. Wong KokSheik](https://scholar.google.com/citations?user=oMjrLWcAAAAJ&hl=en&oi=ao)** as my associate advisor. Prior to that, I completed my **B.Sc. degree in Biology at [Huazhong Agricultural University](http://www.hzau.edu.cn/)**, Wuhan, China, under the supervision of Prof. Yang Zaiqing. I was briefly enrolled (August-December 2014) as a Ph.D. student in molecular metabolism at Virginia Tech, USA.
 
-Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me. 
+During my Ph.D. studies (2018-2021), I had the privilege of visiting and collaborating with several European professors as a visiting Ph.D. student under Marie Sklodowska-Curie Actions through the **[IDENTITY project](https://warwick.ac.uk/fac/sci/dcs/research/df/identity/)**. These collaborations included working with **[Prof. Jean-Luc Dugelay](https://www.eurecom.fr/~dugelay/) at [EURECOM](https://www.eurecom.fr/)**, France; **[Prof. Massimo](https://scholar.google.com/citations?user=DdyCvCgAAAAJ&hl=en) at [University of Sassari](https://en.uniss.it/)**, Italy; and **[Prof. Andreas](https://www.cosy.sbg.ac.at/~uhl/) at Salzburg University**, Austria. Additionally, I visited and worked with **[Prof. Guo Zhenghua](https://scholar.google.com/citations?hl=en&user=dbR6bD0AAAAJ) at Tsinghua University**, China, supported by the Monash Global Research Excellence grant. In 2021, I also completed a wonderful internship at TCL Research.
 
-:fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project; see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). I serve as a Editor for SR, Guest Editor for the Symmetry and as an AC for BMVC since 2024.
+Since 2024, I have been a **Guest Editor for the *Symmetry* journal** and have served as an **Area Chair (AC) for BMVC**. I also serve as an Editor for *Scientific Reports* (SR).
+
+Please feel free to use my [Public PGP Key](https://www.google.com/search?q=/files/publicPGP.asc) when you email me.
+
+-----
+
+:fire: I am proudly a participant in a charity project called **蓝信封行动 (Blue Envelope Action)**, which supports children left behind in rural areas. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
 :new: 
 
@@ -39,17 +38,25 @@ Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email
 - 进组本科生升学：普渡大学，东南大学，北航，北理，莫纳什，西工，西电，安大,天大等
 - 研究生实习：讯飞，虹软，滴滴等
 
-Accepting master students and research interns (AHU students only), we offer: 
-- interesting research topics and cutting-edge research projects, not only focusing on research publications but also seminal discoveries and impactful achievements for society；
-- collaborate with top-tier institutes, such as HKUST, Yonsei, Monash；
-- assist you in finding interns from top-tier companies；
-- flexible scheduling of working；
+## Join Our Research Team!
 
-We expect you to:
-- be self-motivated
-- coding is just a piece of cake for you
-- be responsible and positive
-- fluent English reading and writing is preferred but not a must 
+We're currently looking for motivated **Master's students** and **research interns** (Anhui University students only) to join our group. If you're passionate about making a real impact through research, we'd love to hear from you.
+
+**What We Offer:**
+
+* **Engaging Research:** Dive into interesting and cutting-edge research topics. Our focus extends beyond just publications to include seminal discoveries and impactful achievements for society.
+* **Top-Tier Collaborations:** You'll have opportunities to collaborate with leading institutions like HKUST, Yonsei University, and Monash University.
+* **Industry Connections:** We'll help you find internship opportunities at top-tier companies.
+* **Flexible Work:** Enjoy a flexible work schedule that supports your academic and research goals.
+
+**What We're Looking For:**
+
+* **Self-Motivated:** You're eager to learn and take initiative.
+* **Strong Coder:** You find coding to be straightforward and enjoy the challenge.
+* **Responsible & Positive:** You approach your work with a can-do attitude and are reliable.
+* **English Proficiency (Preferred):** While not a requirement, strong English reading and writing skills are a plus.
+
+---
 
 <br/>
 

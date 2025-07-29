@@ -23,7 +23,7 @@ I also had a wonderful internship at TCL Research in 2021. I have been a Guest E
 
 Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me. 
 
-:fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project; see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). 
+:fire: I am proudly a participant in a charity project (蓝信封行动,留守儿童关爱中心) and was interviewed by this project; see the interview at [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ). I serve as a Editor for SR, Guest Editor for the Symmetry and as an AC for BMVC since 2024.
 
 :new: 
 

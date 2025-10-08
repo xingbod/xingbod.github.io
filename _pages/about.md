@@ -20,9 +20,10 @@ Please feel free to use my [Public PGP Key](https://www.google.com/search?q=/fil
 
 -----
 
-:fire: I am proudly a participant in a charity project called **蓝信封行动 (Blue Envelope Action)**, which supports children left behind in rural areas. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
+I am proudly a participant in a charity project called **蓝信封行动 (Blue Envelope Action)**, which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
 ---
+
 
 <br/>
 

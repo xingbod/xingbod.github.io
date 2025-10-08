@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /111111
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about1111/
+  - /about1111.html
 ---
 
 I am currently a Lecturer at [Anhui University](https://en.ahu.edu.cn/), Hefei, China, and also affiliated as a Researcher/PI with Tian-Hai Flow Control Co., LTD. Previously, I was a Postdoctoral Researcher at [Yonsei University](https://www.yonsei.ac.kr/), Seoul, Korea, under the supervision of [Prof. Andrew Teoh](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en). My research there was funded by the South Korea Brain Pool (BP) Program, and my research at Monash was funded by the MARIE SKŁODOWSKA-CURIE Fellowship. I am proud to be a BP and MSCA fellowship awardee. My research expertise lies in **image processing** (both medical and natural), **deep learning**, **computer vision**, and **pattern recognition**.

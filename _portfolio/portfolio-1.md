@@ -1,6 +1,6 @@
 ---
 title: "2023 Year-End Gathering"
-excerpt: "Lunch Gathering at 小槟城  <br/><img src='/images/team/2023yearendlunch.jpg'>"
+excerpt: "Lunch Gathering at 小槟城  <br/><img src='/images/team/2023yearendlunch111.jpg'>"
 collection: portfolio
 ---
 

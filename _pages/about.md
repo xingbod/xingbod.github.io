@@ -14,7 +14,7 @@ I earned my Ph.D. degree from the Faculty of Information Technology, **[Monash U
 
 I am proudly a participant in a charity project called [**蓝信封行动 (Blue Letter Project)**](http://www.lanxinfeng.org/), which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
-<span style="color: red; font-weight: bold;">We are recruiting Ph.D. students (2026 intake) – passionate candidates with interests in deep learning, or AI4Science are welcome to contact me! Note: Domestic student only. (招收博士，综合待遇保底7000每月100%保证不骗人，课题组可视情况额外补助，顶级科研成果奖励另算。名额有限，欢迎已经发表了高水平论文的同学提前联系！)</span>
+<span style="color: red; font-weight: bold;">We are recruiting Ph.D. students (2026 intake) – passionate candidates with interests in deep learning, or AI4Science are welcome to contact me! Note: Domestic student only. (招收博士，综合待遇保底7000/月（人品担保），课题组可视情况额外补助，顶级科研成果奖励另算。名额有限，欢迎已经发表了高水平论文的同学提前联系！)</span>
 
 
 <br/>

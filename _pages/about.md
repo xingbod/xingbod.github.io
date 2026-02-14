@@ -20,6 +20,26 @@ I am proudly a participant in a charity project called [**蓝信封行动 (Blue 
 
 ### 我们的四大核心研究方向 (Research Pillars)
 
+```mermaid
+mindmap
+  root((我们))
+    Security(🛡️ AI 安全与隐私)
+      Cancelable_Biometrics(可撤销生物识别)
+      Privacy_Preserving(隐私保护计算)
+      Adversarial_Defense(对抗防御)
+    Vision(👁️ AI 视觉增强)
+      Low_Light(暗光增强<br/>Rawformer)
+      Restoration(图像复原)
+      Transformer(视觉 Transformer<br/>架构设计)
+    Medical(🏥 AI 智慧医疗)
+      Ultrasound(超声影像分析)
+      Fetal_Heart(胎儿心脏检测)
+      Domain_Adaptation(域适应学习)
+    Brain(🧠 AI 大脑与智能体)
+      MLLM(多模态大模型)
+      Agents(自主智能体)
+      AIGC(生成式 AI)
+```
 #### 1. **AI 护盾：生物特征识别与安全 (Biometric Security & Privacy)**
 > *"在这个刷脸的时代，谁来保护你的‘脸’？"*
 - **核心黑科技**：**可撤销生物识别 (Cancelable Biometrics)**, 隐私保护人脸识别, 生物加密系统。
@@ -44,30 +64,7 @@ I am proudly a participant in a charity project called [**蓝信封行动 (Blue 
 - **我们在做什么**：不仅仅是识别图像，我们让 AI 学会像人一样思考、规划和行动。将视觉 (Vision) 与语言 (Language) 结合，打造能够理解意图并自动执行任务的下一代智能体（Agent）。
 - **Target**: NeurIPS, ICLR, CVPR.
 
----
 
-### 研究方向全景图 (The Landscape)
-
-```mermaid
-mindmap
-  root((我们))
-    Security(🛡️ AI 安全与隐私)
-      Cancelable_Biometrics(可撤销生物识别)
-      Privacy_Preserving(隐私保护计算)
-      Adversarial_Defense(对抗防御)
-    Vision(👁️ AI 视觉增强)
-      Low_Light(暗光增强<br/>Rawformer)
-      Restoration(图像复原)
-      Transformer(视觉 Transformer<br/>架构设计)
-    Medical(🏥 AI 智慧医疗)
-      Ultrasound(超声影像分析)
-      Fetal_Heart(胎儿心脏检测)
-      Domain_Adaptation(域适应学习)
-    Brain(🧠 AI 大脑与智能体)
-      MLLM(多模态大模型)
-      Agents(自主智能体)
-      AIGC(生成式 AI)
-```
 
 ---
 

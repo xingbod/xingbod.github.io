@@ -274,7 +274,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
+mermaid:
+  src: 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js'
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

@@ -3,26 +3,3 @@
 <a href="/terms/">Privacy and Terms</a>|
 <a href="/confoi/">Conf. of Interest</a> |
 <a href="https://clustrmaps.com/site/1bnli" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&amp;w=70&amp;t=n&amp;d=LmvvLT0n65Y7xeuF2cyz25_iPbmpwBZm8wd0aXY64js"></a><!-- end custom footer snippets -->
-
-<!-- 先加载容器，再加载 JS -->
-  <script src="https://cdn.jsdelivr.net/npm/simple-mind-map@0.14.0-fix.1/dist/simpleMindMap.esm.js"></script>
-  <script>
-    // 简单的思维导图数据
-    const data = {
-      text: "核心主题",
-      children: [
-        { text: "分支1" },
-        { text: "分支2", children: [{ text: "子分支2-1" }] }
-      ]
-    };
-    // 初始化思维导图
-    try {
-      const mindMap = new SimpleMindMap({
-        el: document.getElementById('mindmap'),
-        data: data
-      });
-      mindMap.render();
-    } catch (e) {
-      console.error("思维导图初始化失败：", e);
-    }
-  </script>

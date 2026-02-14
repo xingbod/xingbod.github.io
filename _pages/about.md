@@ -110,3 +110,14 @@ mindmap
 <a ><img src="/images/logo/Salzburg.png" style="height: 40px;"></a>
 <a ><img src="/images/logo/TCL.png" style="height: 40px;"></a>
 </div>
+
+<!-- 引入 Mermaid JS -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+<!-- 初始化 Mermaid -->
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default' // 可根据需要更换主题
+  });
+</script>

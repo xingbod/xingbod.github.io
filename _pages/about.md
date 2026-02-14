@@ -16,9 +16,9 @@ I earned my Ph.D. degree from the Faculty of Information Technology, **[Monash U
 I am proudly a participant in a charity project called [**蓝信封行动 (Blue Letter Project)**](http://www.lanxinfeng.org/), which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
 
-## 🌟 Join Us! 做有温度、有深度的科研
+## Join Us! 报考加入我们
 
-### 🚀 我们的四大核心研究方向 (Research Pillars)
+### 我们的四大核心研究方向 (Research Pillars)
 
 #### 1. **AI 护盾：生物特征识别与安全 (Biometric Security & Privacy)**
 > *"在这个刷脸的时代，谁来保护你的‘脸’？"*
@@ -46,7 +46,7 @@ I am proudly a participant in a charity project called [**蓝信封行动 (Blue 
 
 ---
 
-### 🗺️ 研究方向全景图 (The Landscape)
+### 研究方向全景图 (The Landscape)
 
 ```mermaid
 mindmap
@@ -71,27 +71,24 @@ mindmap
 
 ---
 
-### 📚 代表性科研成果 (Selected Publications)
+### 代表性科研成果 (Selected Publications)
 
 课题组近年来在计算机视觉、人工智能、信息安全等领域的顶级国际会议和期刊上发表高水平学术论文 **70 余篇**，Google Scholar 总引用近 **1000 次**。我们的研究成果不仅发表在顶级刊物上，更在学术界产生了广泛影响：
 
-*   **顶级会议 (Top Conferences)**:
-    *   **CVPR (CCF-A)**: 发表多篇 Oral/Poster 论文，例如 *"Recurring the Transformer for Video Action Recognition"* (CVPR 2022) 和 *"Abandoning the Bayer-Filter to See in the Dark"* (CVPR 2022)，在视频理解与底层视觉领域提出创新方案。
-    *   **AAAI，NIPS, ICML (CCF-A)**: 在目标跟踪，目标识别，模式识别领域发表多篇顶会。
-    *   **MICCAI / IJCB**: 在医学影像分析 (Medical AI) 和生物特征识别 (Biometrics) 领域的顶级会议上均有重要成果发表。
-
-*   **顶级期刊 (Top Journals)**:
-    *   **IEEE T-IFS (CCF-A)**: 在信息安全与生物特征识别领域权威期刊发表多篇论文。
-    *   **IEEE T-IM / JBHI**: 在医学影像顶级期刊发表多篇关于超声图像分析与辅助诊断的研究。
-    *   **IEEE T-IP / T-MM**: 在图像处理与多媒体领域持续产出高质量研究成果。
+*   **顶级会议/期刊 (Top Conferences/Journals)**:
+    *   **CVPR，AAAI，NIPS, ICML (CCF-A)**: 发表多篇 Oral/Poster 论文，例如 *"Recurring the Transformer for Video Action Recognition"* (CVPR 2022) 和 *"Abandoning the Bayer-Filter to See in the Dark"* (CVPR 2022)，在视频理解与底层视觉领域提出创新方案。
+    *   **IEEE T-IFS，T-IM，JBHI (CCF-A)**: 在信息安全与生物特征识别领域权威期刊发表多篇论文。
+    
+*   **前沿落地项目 (Top Projects)**:
+    *   **to G/B**: 面向真实需求的项目研发。
 
 ---
 
 ### 💡 为什么选择我们？
 
-1.  **顶会论文收割机**：我们在 CVPR, ICCV, TIFS等顶级会议和期刊上发表多篇高水平论文，手把手指导你发表第一篇顶会！老师会亲自指导，绝对不放养。
-2.  **硬核技术落地**：从底层算法架构设计到具体的医疗/安全应用，既有理论深度，又有应用广度。
-3.  **有趣有爱**：与其做一个无情的调参机器，不如来做保护隐私的黑客克星，或者辅助医生的 AI 专家，或者智能体的构建者！
+1.  **可呈现的论文**：我们在 CVPR, ICCV, TIFS等顶级会议和期刊上发表多篇高水平论文，手把手指导你发表第一篇顶会！老师会亲自指导，绝对不放养。
+2.  **硬核**：从底层算法架构设计到具体的医疗/安全应用，既有理论深度，又有应用广度。
+3.  **有趣**：与其做一个无情的调参机器，不如来做保护隐私的黑客克星，或者辅助医生的 AI 专家，或者智能体的构建者！
 
 **👉 欢迎计算机、数学、电子信息等相关专业的同学报考硕士/博士研究生！一起探索 AI 的无限可能！ (博士（电子信息），综合待遇保底5000/月，课题组可视情况额外补助，顶级科研成果奖励另算。名额有限，欢迎已经发表了高水平论文的同学提前联系！)**
 

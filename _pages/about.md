@@ -16,7 +16,8 @@ I earned my Ph.D. degree from the Faculty of Information Technology, **[Monash U
 I am proudly a participant in a charity project called [**蓝信封行动 (Blue Letter Project)**](http://www.lanxinfeng.org/), which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
 
-## Join Us! 报考加入我们
+## Join Us! 
+**👉 欢迎同学报考硕士研究生！一起探索 AI 的无限可能!1. 招收博士（电子信息专业），博士综合待遇保底5000/月。2. 所有硕博生课题组可视情况额外补助，顶级科研成果奖励另算。3. 欢迎同学提前联系！（微信:xdongcs）**
 
 ### 我们的四大核心研究方向 (Research Pillars)
 
@@ -67,7 +68,6 @@ mindmap
 2.  **硬核**：从底层算法架构设计到具体的医疗/安全应用，既有理论深度，又有应用广度。
 3.  **有趣**：与其做一个无情的调参机器，不如来做保护隐私的黑客克星，或者辅助医生的 AI 专家，或者智能体的构建者！
 
-**👉 欢迎同学报考硕士研究生！一起探索 AI 的无限可能!,招收博士（电子信息专业），博士综合待遇保底5000/月。所有硕博生课题组可视情况额外补助，顶级科研成果奖励另算。名额有限，欢迎同学提前联系！（微信:xdongcs）**
 
 
 

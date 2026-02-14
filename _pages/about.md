@@ -17,8 +17,6 @@ I am proudly a participant in a charity project called [**蓝信封行动 (Blue 
 
 ## 🌟 Join Us! 做有温度、有深度的科研
 
-我们致力于让 AI **看得更清、护得更严、懂医术**。这里不仅有最前沿的算法，更有落地的应用场景。
-
 ### 🚀 我们的四大核心研究方向 (Research Pillars)
 
 #### 1. **AI 护盾：生物特征识别与安全 (Biometric Security & Privacy)**

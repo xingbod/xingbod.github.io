@@ -44,7 +44,7 @@ mindmap
 
 ## 💡 为什么选择我们？
 
-1.  **可呈现的论文成果**：我们在 CVPR, ICCV, TIFS等顶级会议和期刊上发表多篇高水平论文，访问[谷歌学术](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en)查看详细论文列表。
+1.  **可呈现的论文成果**：我们在 CVPR, ICCV, TIFS等顶级会议和期刊上发表多篇高水平论文，访问[谷歌学术](https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en)查看详细论文列表。
 2.  **不放养**：会手把手指导你发表第一篇顶会！绝对不放养。也欢迎和支持有独立能力成员开展独立研究，绝不瞎指导。
 3.  **给一作**：对有志于深造的同学的authorship，优先一作,积极支持同学的学术生涯发展。
 4.  **有奖励**：达成顶级成果有奖励，并且逐年提高奖励金额。

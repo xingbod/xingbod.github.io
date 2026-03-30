@@ -25,6 +25,23 @@ author_profile: true
 .paperitem {margin: 5px;border-bottom:1px gray dashed; padding-bottom: 10px;}
 </style>
 
+
+<!-- This div is a placeholder which will contain the publications -->
+<div id="pubszone">
+  Loading publications...
+</div>
+<!-- Function which will handle the content received through JSONP -->
+<script type='text/javascript'>
+//<![CDATA[
+    function mycallback(ad_content) {
+    	document.getElementById('pubszone').innerHTML = ad_content.html;
+    }
+//]]>
+</script>
+<!-- Load of the remote JS which will call the callback function -->
+<script src="https://www.csauthors.net/xingbo-dong/embed/bib.js?callback=mycallback"></script>
+
+
 <div class="list__item paperitem">
 <article class="archive__item"  itemscope="" >
 <div><b>"Abandoning the Bayer-Filter to See in the Dark"</b>. Xingbo Dong*, Wanyan Xu*, Zhihui Miao, Lan Ma, Chao Zhang, Jiewen Yang, Zhe Jin, Andrew Beng Jin Teoh, Jiajun Shen. <font color="red">CVPR 2022</font></div>

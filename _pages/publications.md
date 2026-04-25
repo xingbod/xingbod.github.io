@@ -15,68 +15,88 @@ nav_order: 2
 
 ## Publication Statistics
 
-### By Venue
-
-| Venue | Type | Count |
-|-------|------|-------|
-| CVPR | Conference | 6 |
-| Pattern Recognition | Journal | 4 |
-| PRCV | Conference | 4 |
-| CCBR | Conference | 4 |
-| NeurIPS | Conference | 1 |
-| ICML | Conference | 1 |
-| ECCV | Conference | 1 |
-| AAAI | Conference | 2 |
-| ICME | Conference | 1 |
-| WACV | Conference | 1 |
-| ICPR | Conference | 1 |
-| WIFS | Conference | 1 |
-| IJCB | Conference | 1 |
-| BIOSIG | Conference | 1 |
-| MMSP | Conference | 1 |
-| IWBF | Conference | 1 |
-| BTAS | Conference | 1 |
-| APSIPA ASC | Conference | 1 |
-| AIEA | Conference | 2 |
-| BICS | Conference | 1 |
-| ICIP | Conference | 1 |
-| IEEE TCYB | Journal | 1 |
-| NPJ AI | Journal | 1 |
-| IEEE TCSVT | Journal | 1 |
-| Information Fusion | Journal | 1 |
-| IEEE JBHI | Journal | 1 |
-| JKSUTCIS | Journal | 1 |
-| IEEE TIM | Journal | 1 |
-| SIViP | Journal | 1 |
-| Knowledge-Based Systems | Journal | 1 |
-| Food, Nutrition and Health | Journal | 1 |
-| Scientific Data | Journal | 1 |
-| Scientific Reports | Journal | 2 |
-| Education Sciences | Journal | 2 |
-| JEI | Journal | 1 |
-| EAAI | Journal | 2 |
-| IEEE TIFS | Journal | 2 |
-| IEEE TFS | Journal | 1 |
-| IEEE TRPMS | Journal | 1 |
-| PLOS ONE | Journal | 1 |
-| IEEE IoTJ | Journal | 1 |
-| ACM TOMM | Journal | 1 |
-| Computers & Security | Journal | 1 |
-| IEEE SPL | Journal | 1 |
-
-### By Year
-
-| Year | Count |
-|------|-------|
-| 2026 | 7 |
-| 2025 | 19 |
-| 2024 | 14 |
-| 2023 | 8 |
-| 2022 | 5 |
-| 2021 | 4 |
-| 2020 | 2 |
-| 2019 | 3 |
-| 2018 | 1 |
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="margin-top: 0;">By Venue</h3>
+    <table style="font-size: 0.9em; width: 100%;">
+      <thead>
+        <tr>
+          <th style="text-align: left;">Venue</th>
+          <th style="text-align: left;">Type</th>
+          <th style="text-align: left;">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>CVPR</td><td>Conference</td><td>6</td></tr>
+        <tr><td>Pattern Recognition</td><td>Journal</td><td>4</td></tr>
+        <tr><td>PRCV</td><td>Conference</td><td>4</td></tr>
+        <tr><td>CCBR</td><td>Conference</td><td>4</td></tr>
+        <tr><td>NeurIPS</td><td>Conference</td><td>1</td></tr>
+        <tr><td>ICML</td><td>Conference</td><td>1</td></tr>
+        <tr><td>ECCV</td><td>Conference</td><td>1</td></tr>
+        <tr><td>AAAI</td><td>Conference</td><td>2</td></tr>
+        <tr><td>ICME</td><td>Conference</td><td>1</td></tr>
+        <tr><td>WACV</td><td>Conference</td><td>1</td></tr>
+        <tr><td>ICPR</td><td>Conference</td><td>1</td></tr>
+        <tr><td>WIFS</td><td>Conference</td><td>1</td></tr>
+        <tr><td>IJCB</td><td>Conference</td><td>1</td></tr>
+        <tr><td>BIOSIG</td><td>Conference</td><td>1</td></tr>
+        <tr><td>MMSP</td><td>Conference</td><td>1</td></tr>
+        <tr><td>IWBF</td><td>Conference</td><td>1</td></tr>
+        <tr><td>BTAS</td><td>Conference</td><td>1</td></tr>
+        <tr><td>APSIPA ASC</td><td>Conference</td><td>1</td></tr>
+        <tr><td>AIEA</td><td>Conference</td><td>2</td></tr>
+        <tr><td>BICS</td><td>Conference</td><td>1</td></tr>
+        <tr><td>ICIP</td><td>Conference</td><td>1</td></tr>
+        <tr><td>IEEE TCYB</td><td>Journal</td><td>1</td></tr>
+        <tr><td>NPJ AI</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE TCSVT</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Information Fusion</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE JBHI</td><td>Journal</td><td>1</td></tr>
+        <tr><td>JKSUTCIS</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE TIM</td><td>Journal</td><td>1</td></tr>
+        <tr><td>SIViP</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Knowledge-Based Systems</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Food, Nutrition and Health</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Scientific Data</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Scientific Reports</td><td>Journal</td><td>2</td></tr>
+        <tr><td>Education Sciences</td><td>Journal</td><td>2</td></tr>
+        <tr><td>JEI</td><td>Journal</td><td>1</td></tr>
+        <tr><td>EAAI</td><td>Journal</td><td>2</td></tr>
+        <tr><td>IEEE TIFS</td><td>Journal</td><td>2</td></tr>
+        <tr><td>IEEE TFS</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE TRPMS</td><td>Journal</td><td>1</td></tr>
+        <tr><td>PLOS ONE</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE IoTJ</td><td>Journal</td><td>1</td></tr>
+        <tr><td>ACM TOMM</td><td>Journal</td><td>1</td></tr>
+        <tr><td>Computers & Security</td><td>Journal</td><td>1</td></tr>
+        <tr><td>IEEE SPL</td><td>Journal</td><td>1</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h3 style="margin-top: 0;">By Year</h3>
+    <table style="font-size: 0.9em; width: 100%;">
+      <thead>
+        <tr>
+          <th style="text-align: left;">Year</th>
+          <th style="text-align: left;">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>2026</td><td>7</td></tr>
+        <tr><td>2025</td><td>19</td></tr>
+        <tr><td>2024</td><td>14</td></tr>
+        <tr><td>2023</td><td>8</td></tr>
+        <tr><td>2022</td><td>5</td></tr>
+        <tr><td>2021</td><td>4</td></tr>
+        <tr><td>2020</td><td>2</td></tr>
+        <tr><td>2019</td><td>3</td></tr>
+        <tr><td>2018</td><td>1</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <div class="publications">
 

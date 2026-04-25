@@ -506,6 +506,16 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/x/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-java程序及应用-java-programming-and-applications",
+          title: 'Java程序及应用 / Java Programming and Applications',
+          description: "本课程介绍Java编程语言的基本语法、面向对象编程思想和Java在实际应用中的使用。This course introduces the basic syntax of Java programming language, object-oriented programming concepts, and the use of Java in practical applications.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/x/teachings/java-programming/";
+            },},{id: "teachings-自然语言处理-natural-language-processing",
+          title: '自然语言处理 / Natural Language Processing',
+          description: "本课程介绍自然语言处理的基本概念、技术和应用，包括词法分析、句法分析、语义理解、机器翻译等内容。This course introduces the basic concepts, techniques, and applications of natural language processing, including lexical analysis, syntactic analysis, semantic understanding, machine translation, etc.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/x/teachings/natural-language-processing/";
             },},{
         id: 'social-cv',
         title: 'CV',

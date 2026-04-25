@@ -127,16 +127,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/x/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/x/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/x/teachings/introduction-to-machine-learning/";
             },},{id: "teachings-java程序及应用-java-programming-and-applications",
           title: 'Java程序及应用 / Java Programming and Applications',
           description: "本课程介绍Java编程语言的基本语法、面向对象编程思想和Java在实际应用中的使用。This course introduces the basic syntax of Java programming language, object-oriented programming concepts, and the use of Java in practical applications.",

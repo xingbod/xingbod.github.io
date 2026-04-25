@@ -1,0 +1,373 @@
+
+书籍：
+\vspace{-1cm}
+\begin{thebibliography}{00}
+\bibitem{dai2026ai}
+戴勇,\textbf{董兴波},苏树智,郭明全, \textit{人工智能在医学实践中的应用}.
+\textcolor{red}{中国人口与健康出版社有限公司 }, ISBN: 978-7-5238-0919-8, 2026. \faGraduationCap
+\bibitem{dong2026feature}
+\textbf{Dong, Xingbo} (董兴波), Andrew Beng Jin Teoh,
+\textit{Feature Transformation-Based Biometrics Template Protection}. Chapter of 
+\textit{Handbook of Biometric Template Protection: Motivation, Methods and Metrics}.
+\textcolor{red}{Springer}, Singapore, ISBN 978-981-95-0995-9, Pages 79--106, 2026. \faGraduationCap
+\bibitem{zhang2026biometric}
+Hui Zhang, \textbf{Dong, Xingbo} (董兴波), Zhe Jin,
+\textit{Biometric Template-Based Reconstruction Attack in Machine Learning}. Chapter of \textit{Adversarial Example Detection and Mitigation Using Machine Learning}.
+\textcolor{red}{Springer}, ISBN: 978-3-031-99447-0. Pages 65--77, 2026. \faGraduationCap
+\end{thebibliography}
+
+
+论文:
+\vspace{-1cm}
+\begin{thebibliography}{00}
+\bibitem{yang2026ultrags}
+Yuezhe Yang, Qingqing Ruan, Wenjie Cai, Yudang Dong, Dexin Yang, \textbf{Dong, Xingbo}*, Zhe Jin, Yong Dai,
+\textit{UltraGS: Real-Time Physically-Decoupled Gaussian Splatting for Ultrasound Novel View Synthesis}.
+\textcolor{red}{IEEE International Conference on Multimedia \& Expo (ICME)}, Accepted, 2026. (CCF B)
+
+\bibitem{yang2026autous}
+Yuezhe Yang, Yiyue Guo, Wenjie Cai, Qingqing Ruan, Siying Wang, \textbf{Dong, Xingbo}*, Zhe Jin, Yong Dai,
+\textit{Auto-US: An Ultrasound Video Diagnosis Agent Using Video Classification Framework and LLMs}.
+NPJ Artificial Intelligence (NPJ AI), Major Revision, 2026. 
+
+\bibitem{kang2026collaborative}
+Yan Kang, Zhuolun Li, Bin Pu, \textbf{Dong, Xingbo} (董兴波), Jiewen Yang, Lei Zhao, Benteng Ma, Ningshu Li, Jianguo Chen, Philip S. Yu,
+\textit{Collaborative Coarse-to-Fine Disease Learning With Discharge Summary Awareness for EHR Event Prediction}.
+\textcolor{red}{IEEE Transactions on Cybernetics}. 2026, IEEE. \faGraduationCap
+
+\bibitem{yin2026spectral}
+Chen Yin, \textbf{Dong, Xingbo*} (董兴波), Xuelin Shen, Zhe Jin,
+\textit{Spectral Mixture-of-Experts for Continual Learning}.
+\textcolor{red}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}. Denver, Colorado, USA, June 3-7, 2026. Accepted, 2026. \faGraduationCap
+
+\bibitem{wang2026towards}
+Liwen Wang, \textbf{Dong, Xingbo*} (董兴波), Iman Yi Liao, Zhe Jin*,
+\textit{Towards Stable Federated Continual Test-Time Adaptation in Wild World}.
+\textcolor{red}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}. Denver, Colorado, USA, June 3-7, 2026. Accepted, 2026. \faGraduationCap
+
+\bibitem{dong2026ced}
+Liwen Wang, \textbf{Dong, Xingbo*} (董兴波), Yenlung Lai, Bin Pu, Zhao Liu, Qika Lin, Zhe Jin*,
+\textit{CED: CLIP-guided entropy dynamics for robust test-time adaptation in harsh visual conditions}.
+\textcolor{red}{Pattern Recognition}. Volume 177, September 2026, 113297. \faGraduationCap
+
+\bibitem{cai2026evrwkv}
+Wenjie Cai, Qingguo Meng*, Zhenyu Wang, \textbf{Dong, Xingbo*} (董兴波), Zhe Jin,
+\textit{EvRWKV: A Continuous Interactive RWKV Framework for Effective Event-Guided Low-Light Image Enhancement}.
+\textcolor{red}{IEEE Transactions on Circuits and Systems for Video Technology}. 2026. \faGraduationCap
+
+\bibitem{pu2025learning}
+Bin Pu, Liwen Wang, \textbf{Dong, Xingbo} (董兴波), Xingguo Lv, Zhe Jin*,
+\textit{Learning to Zoom with Anatomical Relations for Medical Structure Detection}.
+\textcolor{red}{Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)}. 2025. \faGraduationCap
+
+\bibitem{lv2025test}
+Xingguo Lv, \textbf{Dong, Xingbo*} (董兴波), Liwen Wang, Jiewen Yang, Lei Zhao, Bin Pu*, Zhe Jin, Xuejun Li,
+\textit{Test-time domain generalization via universe learning: A multi-graph matching approach for medical image segmentation}.
+\textcolor{red}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}. Pages 15621--15631, 2025. \faGraduationCap
+
+\bibitem{dong2025diagnosis}
+Yufang Dong, Yonglin Chen, Zhe Jin, \textbf{Dong, Xingbo} (董兴波),
+\textit{Diagnosis of Alzheimer’s disease using brain-FDG PET imaging based on a state space model}.
+\textcolor{red}{Scientific Reports}. Volume 15, Number 1, Pages 21587, 2025, Nature Publishing Group UK London. \faGraduationCap
+
+\bibitem{dong2025uncertaintta}
+\textbf{Dong, Xingbo} (董兴波);Liwen Wang, Xingguo Lv, Xiaoyan Zhang, Hui Zhang, Bin Pu, Zhan Gao, Iman Yi Liao, Zhe Jin,
+\textit{CertainTTA: Estimating uncertainty for test-time adaptation on medical image segmentation}.
+\textcolor{red}{Information Fusion}. Volume 123, 2025, 103300. \faGraduationCap
+
+\bibitem{dong2025aemmamba}
+\textbf{Dong, Xingbo} (董兴波); Zhou, Bowen; Yin, Chen; Liao, Iman Yi; Jin, Zhe; Xu, Zhaozhao; Pu, Bin. 
+\textit{ÆMMamba: An Efficient Medical Segmentation Model With Edge Enhancement}. 
+\textcolor{red}{IEEE Journal of Biomedical and Health Informatics}, pages 1--14, 2025. \faGraduationCap
+
+\bibitem{dong2024video}
+\textbf{Dong, Xingbo} (董兴波); Yang, Jiewen; Teoh, Andrew Beng Jin; Yu, Dahai; Li, Xiaomeng; Jin, Zhe. 
+\textit{Video-based face outline recognition}. 
+\textcolor{red}{Pattern Recognition}, 152:110482, 2024. \faGraduationCap
+
+\bibitem{dong2024security}
+\textbf{Dong, Xingbo} (董兴波); Park, Jaewoo; Jin, Zhe; Teoh, Andrew Beng Jin; Tistarelli, Massimo; Wong, KokSheik. 
+\textit{On the security risk of pre-image attack on cancelable biometrics}. 
+\textcolor{red}{Journal of King Saud University-Computer and Information Sciences}, 36(5):102060, 2024. \faGraduationCap
+
+\bibitem{dong2024wifakey}
+\textbf{Dong, Xingbo} (董兴波); Zhang, Hui; Lai, Yen Lung; Jin, Zhe; Huang, Junduan; Kang, Wenxiong; Teoh, Andrew Beng Jin. 
+\textit{WiFaKey: Generating Cryptographic Keys from Face in the Wild}. 
+\textcolor{red}{IEEE Transactions on Instrumentation and Measurement}, 2024.
+
+\bibitem{dong2025rawrwkv}
+\textbf{Dong, Xingbo} (董兴波);Yongzhou Liu; Zhe Jin; Wen Sha
+\textit{RawRWKV: An efficient raw image enhancement framework via RWKV architecture}. 
+\textcolor{red}{Signal, Image and Video Processing}, 2025.
+
+\bibitem{dong2025duality}
+Lv, Xingguo;\textbf{Dong, Xingbo*} (董兴波);Jiewen Yang;Lei Zhao;Bin Pu; Zhe Jin;Yudong Zhang
+\textit{Low-light image enhancement with luminance duality}. 
+\textcolor{red}{Knowledge-Based Systems}, 2025.
+
+\bibitem{jia2025single}
+Jia, Congcong; \textbf{Dong, Xingbo*} (董兴波); Lai, Yen Lung; Teoh, Andrew Beng Jin; Yang, Ziyuan; Zhang, Xiaoyan; Wang, Liwen; Jin, Zhe; Yang, Lianqiang. 
+\textit{Single source domain generalization for palm biometrics}. 
+\textcolor{red}{Pattern Recognition}, 165:111620, 2025. \faGraduationCap
+
+\bibitem{liu2025survey}
+Liu, Yongzhou; Chen, Li; Hong, Rentao; \textbf{Dong, Xingbo*} (董兴波); Sha, Wen; Jin, Zhe; Wu, Ting; Chen, Guoxun. 
+\textit{A survey of mastication evaluation: from traditional approach to artificial intelligence}. 
+\textcolor{red}{Food, Nutrition and Health}, 2(1):1--21, 2025. \faGraduationCap
+
+
+\bibitem{yang2025annotated}
+Yang, Yuezhe; Chen, Yonglin; \textbf{Dong, Xingbo*} (董兴波); Zhang, Junning; Long, Chihui; Jin, Zhe; Dai, Yong. 
+\textit{An annotated heterogeneous ultrasound database}. 
+\textcolor{red}{Scientific Data}, 12(1):148, 2025. \faGraduationCap
+
+\bibitem{yu2025Ensemble}
+Yu, Hongjie, and \textbf{Dong, Xingbo*} (董兴波). \textit{Ensemble-Based Eye Disease Detection System Utilizing Fundus and Vascular Structures}. \textcolor{red}{Scientific Reports} 15, no. 1 (June 2, 2025): 19298. 
+
+\bibitem{yin2025csp}
+Chen Yin, \textbf{Dong, Xingbo*} (董兴波), Ying Tan, Bocheng Liang, Bin Pu, Zhe Jin,
+\textit{CSP-SAM: CNN-Enhanced and Self-prompting SAM for Ultrasound Anatomical Structure Segmentation}.
+\textcolor{red}{Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)}. Pages 91--105, 2025, Springer. \faGraduationCap
+
+\bibitem{jia2025learning}
+Congcong Jia, Shiyu Gu, Hanyu Wang, Qingguo Meng, Zhe Jin, Lianqiang Yang, \textbf{Dong, Xingbo} (董兴波), Junduan Huang,
+\textit{Learning Without Borders: A Domain-Adapted and Federated Approach to Palmprint Recognition}.
+\textcolor{red}{Proceedings of the Chinese Conference on Biometric Recognition (CCBR)}. Pages 79--89, 2025, Springer. (Best Paper Runner Up)\faGraduationCap
+
+\bibitem{yin2025mspd}
+Chen Yin, Liwen Wang, \textbf{Dong, Xingbo*} (董兴波), Zhe Jin,
+\textit{MSPD-SAM: A Prompt-Free Framework for Cardiac Segmentation Using Multi-scale Adapters and Parallel Decoding}.
+\textcolor{red}{Proceedings of the Chinese Conference on Biometric Recognition (CCBR)}. Pages 404--414, 2025, Springer. \faGraduationCap
+
+\bibitem{qian2025cross}
+Yanhong Qian, Xinyue Liu, Fuyou Leng, Hui Zhang, \textbf{Dong, Xingbo} (董兴波), Zhe Jin,
+\textit{Cross-Domain Palmprint Cryptosystems via Image Alignment and Neural Error Correction}.
+\textcolor{red}{Proceedings of the Chinese Conference on Biometric Recognition (CCBR)}. Pages 90--100, 2025, Springer. \faGraduationCap
+
+\bibitem{wang2025enhance}
+Wang, Di; \textbf{Dong, Xingbo*} (董兴波); Zhong, Jingxun. 
+\textit{Enhance College AI Course Learning Experience with Constructivism-Based Blog Assignments}. 
+\textcolor{red}{Education Sciences}, 15(2), 2025. \faGraduationCap
+
+\bibitem{li2025lightweight}
+Li, Dezhi; Chen, Yonglin; \textbf{Dong, Xingbo*} (董兴波); Ng, Tiong-Sik; Jin, Zhe; Wang, Shengyuan; Sha, Wen. 
+\textit{Lightweight omnidirectional super-resolution via frequency-spatial fusion and equirectangular projection correction}. 
+\textcolor{red}{Journal of Electronic Imaging}, 34(2):023008--023008, 2025. \faGraduationCap
+
+\bibitem{wang2025ai}
+Di Wang, \textbf{Dong, Xingbo} (董兴波), Zheng Fang, Lillian Yee Kiaw Wang, Zhe Jin,
+\textit{AI in the Classroom: GPT Usage and Learner Typologies in Programming}.
+\textcolor{red}{Education Sciences}. Volume 15, Number 10, Pages 1353, 2025, MDPI. \faGraduationCap
+
+\bibitem{wang2025ditocr}
+Shengyuan Wang, Wenjie Cai, Rihui Xia, \textbf{Dong, Xingbo} (董兴波), Zhe Jin,
+\textit{DITOCR: A Decoder-Only Transformer for Industrial Optical Character Recognition}.
+\textcolor{red}{2025 6th International Conference on Artificial Intelligence and Electromechanical Automation (AIEA)}.
+Pages 01--06, 2025, IEEE. \faGraduationCap
+
+\bibitem{zhao2025filo}
+Min Zhao, Haoyan Shi, Nuoran Teng, Wenjie Cai, Shengyuan Wang, \textbf{Dong, Xingbo} (董兴波), Zhe Jin,
+\textit{FiLo-SFD: Vision-Language Driven Anomaly Detection with Scale Feature Disentanglement}.
+\textcolor{red}{2025 6th International Conference on Artificial Intelligence and Electromechanical Automation (AIEA)}.
+Pages 168--174, 2025, IEEE. \faGraduationCap
+
+\bibitem{wang2024learning}
+Wang, Liwen; Zhang, Xiaoyan; He, Guannan; Tan, Ying; Li, Shengli; Pu, Bin; Jin, Zhe; Sha, Wen; \textbf{Dong, Xingbo*} (董兴波). 
+\textit{Learning Frequency and Structure in UDA for Medical Object Detection}. 
+\textcolor{red}{Chinese Conference on Pattern Recognition and Computer Vision (PRCV)}, pages 518--532, 2024. \faGraduationCap
+
+\bibitem{li2023minimum}
+Li, Dezhi; Park, Hojin; \textbf{Dong, Xingbo*} (董兴波); Lai, YenLung; Zhang, Hui; Teoh, Andrew Beng Jin; Jin, Zhe. 
+\textit{Minimum Assumption Reconstruction Attacks: Rise of Security and Privacy Threats Against Face Recognition}. 
+\textcolor{red}{Chinese Conference on Pattern Recognition and Computer Vision (PRCV)}, pages 57--73, 2023. \faGraduationCap
+
+\bibitem{zhang2023video}
+Zhang, Hui; Yang, Jiewen*; \textbf{Dong, Xingbo*} (董兴波); Lv, Xingguo; Jia, Wei; Jin, Zhe; Li, Xuejun. 
+\textit{A Video Face Recognition Leveraging Temporal Information Based on Vision Transformer}. 
+\textcolor{red}{Chinese Conference on Pattern Recognition and Computer Vision (PRCV)}, pages 29--43, 2023. \faGraduationCap
+
+\bibitem{lv2023l2dm}
+Lv, Xingguo; \textbf{Dong, Xingbo*} (董兴波); Jin, Zhe; Zhang, Hui; Song, Siyi; Li, Xuejun. 
+\textit{L2dm: A diffusion model for low-light image enhancement}. 
+\textcolor{red}{Chinese Conference on Pattern Recognition and Computer Vision (PRCV)}, pages 130--145, 2023. \faGraduationCap
+
+\bibitem{lai2025rethinking}
+Lai, YenLung; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Jia, Wei; Tistarelli, Massimo; Li, XueJun. 
+\textit{Rethinking Contemporary Deep Learning Techniques for Error Correction in Biometric Data}. 
+\textcolor{red}{International Journal of Computer Vision}, 133(4):2158--2175, 2025. \faGraduationCap
+
+\bibitem{pu2025anatomical}
+Pu, Bin; Wang, Liwen; Yang, Jiewen; \textbf{Dong, Xingbo} (董兴波); Ma, Benteng; Chen, Zhuangzhuang; Zhao, Lei; Li, Shengli; Li, Kenli. 
+\textit{Anatomical Knowledge Mining and Matching for Semi-supervised Medical Multi-structure Detection}. 
+Proceedings of the AAAI Conference on Artificial Intelligence, 39(6):6523--6531, 2025. \faGraduationCap
+
+\bibitem{pu2025leveraging}
+Pu, Bin; Lv, Xingguo; Yang, Jiewen; \textbf{Dong, Xingbo} (董兴波); Lin, Yiqun; Li, Shengli; Li, Kenli; Li, Xiaomeng. 
+\textit{Leveraging Anatomical Consistency for Multi-Object Detection in Ultrasound Images via Source-free Unsupervised Domain Adaptation}. 
+Proceedings of the AAAI Conference on Artificial Intelligence, 39(6):6532--6540, 2025. \faGraduationCap
+
+\bibitem{huang2024tatrack}
+Huang, Kai; Chu, Jun; Leng, Lu; \textbf{Dong, Xingbo} (董兴波). 
+\textit{TATrack: Target-aware transformer for object tracking}. 
+Engineering Applications of Artificial Intelligence, 127:107304, 2024. \faGraduationCap
+
+\bibitem{huang2024spatial}
+Huang, Kai; Xiao, Kai; Chu, Jun; Leng, Lu; \textbf{Dong, Xingbo} (董兴波). 
+\textit{A spatial--temporal contexts network for object tracking}. 
+Engineering Applications of Artificial Intelligence, 127:107314, 2024. \faGraduationCap
+
+\bibitem{qiu2024ifvit}
+Qiu, Yuhang; Chen, Honghui; \textbf{Dong, Xingbo} (董兴波); Lin, Zheng; Liao, Iman Yi; Tistarelli, Massimo; Jin, Zhe. 
+\textit{Ifvit: Interpretable fixed-length representation for fingerprint matching via vision transformer}. 
+IEEE Transactions on Information Forensics and Security, 2024. \faGraduationCap
+
+\bibitem{nan2024mfisn}
+Nan, Fengtao; Pu, Bin; Pan, Jiayi; Fan, Yingchun; Yang, Jiewen; \textbf{Dong, Xingbo} (董兴波); Xu, Zhaozhao; Wang, Shuihua. 
+\textit{Mfisn: modality fuzzy information separation network for disease classification}. 
+IEEE Transactions on Fuzzy Systems, 2024. \faGraduationCap
+
+\bibitem{pu2024m3uda}
+Pu, Bin; Wang, Liwen; Yang, Jiewen; He, Guannan; \textbf{Dong, Xingbo} (董兴波); Li, Shengli; Tan, Ying; Chen, Ming; Jin, Zhe; Li, Kenli. 
+\textit{M3-uda: a new benchmark for unsupervised domain adaptive fetal cardiac structure detection}. 
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 11621--11630, 2024. \faGraduationCap
+
+\bibitem{zhang2024validating}
+Zhang, Hui; \textbf{Dong, Xingbo} (董兴波); Lai, YenLung; Zhou, Ying; Zhang, Xiaoyan; Lv, Xingguo; Jin, Zhe; Li, Xuejun. 
+\textit{Validating privacy-preserving face recognition under a minimum assumption}. 
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 12205--12214, 2024. \faGraduationCap
+
+\bibitem{pu2024unsupervised}
+Pu, Bin; Lv, Xingguo; Yang, Jiewen; Guannan, He; \textbf{Dong, Xingbo} (董兴波); Lin, Yiqun; Shengli, Li; Ying, Tan; Fei, Liu; Chen, Ming. 
+\textit{Unsupervised domain adaptation for anatomical structure detection in ultrasound images}. 
+Forty-first International Conference on Machine Learning, 2024. \faGraduationCap
+
+\bibitem{jung2024face}
+Jung, Yoon Gyo; Park, Jaewoo; \textbf{Dong, Xingbo} (董兴波); Park, Hojin; Teoh, Andrew Beng Jin; Camps, Octavia. 
+\textit{Face Reconstruction Transfer Attack as Out-of-Distribution Generalization}. 
+European Conference on Computer Vision, pages 396--413, 2024. \faGraduationCap
+
+
+\bibitem{zhou2024fct}
+Zhou, Bowen; \textbf{Dong, Xingbo} (董兴波); Zhao, Xiaowei; Li, Chenglong; Jin, Zhe; Wang, Huabin. 
+\textit{FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation}. 
+IEEE Transactions on Radiation and Plasma Medical Sciences, 2024. \faGraduationCap
+
+\bibitem{zhang2024triplet}
+Zhang, Hui; Zhou, Ying; \textbf{Dong, Xingbo} (董兴波); Meng, Qingguo; Jin, Zhe. 
+\textit{Triplet-Bio: A Secure Cloud-Edge Collaborative Biometric Authentication via Two-Factor Secret Sharing}. 
+Chinese Conference on Biometric Recognition, pages 145--158, 2024. \faGraduationCap
+
+\bibitem{jia2024enhanced}
+Jia, Congcong; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Yang, Lianqiang. 
+\textit{Enhanced Comprehensive Competition Network for Domain Adaptive Palmprint Recognition}. 
+International Conference on Brain Inspired Cognitive Systems, pages 166--176, 2024. \faGraduationCap
+
+
+\bibitem{ge2023rapamycin}
+Ge, Chenliang; Ma, Changguo; Cui, Jiesheng; \textbf{Dong, Xingbo} (董兴波); Sun, Luyang; Li, Yanjiao; Yu, An. 
+\textit{Rapamycin suppresses inflammation and increases the interaction between p65 and IκBα in rapamycin-induced fatty livers}. 
+Plos one, 18(3):e0281888, 2023.
+
+\bibitem{lai2023breaking}
+Lai, Yenlung; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Tistarelli, Massimo; Yap, Wun-She; Goi, Bok-Min. 
+\textit{Breaking free from entropy’s shackles: cosine distance-sensitive error correction for reliable biometric cryptography}. 
+IEEE transactions on information forensics and security, 18:3101--3115, 2023. \faGraduationCap
+
+\bibitem{park2023towards}
+Park, Hojin; Park, Jaewoo; \textbf{Dong, Xingbo} (董兴波); Teoh, Andrew Beng Jin. 
+\textit{Towards query efficient and generalizable black-box face reconstruction attack}. 
+2023 IEEE International Conference on Image Processing (ICIP), pages 1060--1064, 2023.  \faGraduationCap
+
+\bibitem{zhou2023random}
+Zhou, Ying; Lee, Ming Jie; Zhang, Hui; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe. 
+\textit{Random Undersampling and Local-Global Matching Mechanism for Cancellable Biometrics Against Authentication Attack}. 
+Chinese Conference on Biometric Recognition, pages 325--339, 2023. \faGraduationCap
+
+\bibitem{liu2023sp2in}
+Liu, Yafei; Zhou, Ying; Zhou, Weiyu; Zhang, Hui; Dong, Yufang; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe. 
+\textit{SP2IN: Leveraging Fuzzy Commitment and LDPC Sum-Product Decoder for Key Generation from Face}. 
+Chinese Conference on Biometric Recognition, pages 350--362, 2023. \faGraduationCap
+
+\bibitem{dong2022abandoning}
+\textbf{Dong, Xingbo} (董兴波); Xu, Wanyan; Miao, Zhihui; Ma, Lan; Zhang, Chao; Yang, Jiewen; Jin, Zhe; Teoh, Andrew Beng Jin; Shen, Jiajun. 
+\textit{Abandoning the bayer-filter to see in the dark}. 
+\textcolor{red}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pages 17431--17440, 2022.
+
+\bibitem{dong2022deep}
+\textbf{Dong, Xingbo} (董兴波); Cho, Sangrae; Kim, Youngsam; Kim, Soohyung; Teoh, Andrew Beng Jin. 
+\textit{Deep rank hashing network for cancellable face identification}. 
+\textcolor{red}{Pattern Recognition}, 131:108886, 2022.
+
+\bibitem{dong2022co}
+\textbf{Dong, Xingbo} (董兴波); Khan, Muhammad Khurram; Leng, Lu; Teoh, Andrew Beng Jin. 
+\textit{Co-learning to hash palm biometrics for flexible IoT deployment}. 
+\textcolor{red}{IEEE Internet of Things Journal}, 9(23):23786--23794, 2022.
+
+\bibitem{dong2020open}
+\textbf{Dong, Xingbo} (董兴波); Kim, Soohyung; Jin, Zhe; Hwang, Jung Yeon; Cho, Sangrae; Teoh, Andrew Beng Jin. 
+\textit{Open-set face identification with index-of-max hashing by learning}. 
+\textcolor{red}{Pattern Recognition}, 103:107277, 2020.
+
+\bibitem{dong2021biocancrypto}
+\textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Zhao, Leshan; Guo, Zhenhua. 
+\textit{BioCanCrypto: An LDPC coded bio-cryptosystem on fingerprint cancellable template}. 
+\textcolor{red}{2021 IEEE International Joint Conference on Biometrics (IJCB)}, pages 1--8, 2021.
+
+\bibitem{dong2023reconstruct}
+\textbf{Dong, Xingbo} (董兴波); Miao, Zhihui; Ma, Lan; Shen, Jiajun; Jin, Zhe; Guo, Zhenhua; Teoh, Andrew Beng Jin. 
+\textit{Reconstruct face from features based on genetic algorithm using GAN generator as a distribution constraint}. 
+\textcolor{red}{Computers \& Security}, 125:103026, 2023.
+
+\bibitem{dong2021secure}
+\textbf{Dong, Xingbo} (董兴波); Kim, Soohyong; Jin, Zhe; Hwang, Jung Yeon; Cho, Sangrae; Teoh, Andrew Beng Jin. 
+\textit{Secure chaff-less fuzzy vault for face identification systems}. 
+\textcolor{red}{ACM Transactions on Multimedia Computing, Communications, and Applications}, 17(3):1--22, 2021.
+
+\bibitem{dong2021towards}
+\textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Guo, Zhenhua; Teoh, Andrew Beng Jin. 
+\textit{Towards generating high definition face images from deep templates}. 
+\textcolor{red}{2021 International Conference of the Biometrics Special Interest Group (BIOSIG)}, pages 1--11, 2021.
+
+\bibitem{dong2019secure}
+\textbf{Dong, Xingbo} (董兴波); Wong, KokSheik; Jin, Zhe; Dugelay, Jean-Luc. 
+\textit{A secure visual-thermal fused face recognition system based on non-linear hashing}. 
+\textcolor{red}{2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP)}, pages 1--6, 2019.
+
+\bibitem{dong2019cancellable}
+\textbf{Dong, Xingbo} (董兴波); Wong, KokSheik; Jin, Zhe; Dugelay, Jean-luc. 
+\textit{A cancellable face template scheme based on nonlinear multi-dimension spectral hashing}. 
+\textcolor{red}{2019 7th International Workshop on Biometrics and Forensics (IWBF)}, pages 1--6, 2019.
+
+\bibitem{dong2019genetic}
+\textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Jin, Andrew Teoh Beng. 
+\textit{A genetic algorithm enabled similarity-based attack on cancellable biometrics}. 
+\textcolor{red}{2019 IEEE 10th International Conference on Biometrics Theory, Applications and Systems (BTAS)}, pages 1--8, 2019.
+
+\bibitem{dong2018generalized}
+\textbf{Dong, Xing-Bo} (董兴波); Jin, Zhe; Wong, KokSheik. 
+\textit{A generalized approach for cancellable template and its realization for minutia cylinder-code}. 
+\textcolor{red}{2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}, pages 908--915, 2018.
+\bibitem{yang2022recurring}
+Yang, Jiewen; \textbf{Dong, Xingbo} (董兴波); Liu, Liujun; Zhang, Chao; Shen, Jiajun; Yu, Dahai. 
+\textit{Recurring the transformer for video action recognition}. 
+\textcolor{red}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pages 14063--14073, 2022.
+
+\bibitem{xu2022rawformer}
+Xu, Wanyan; \textbf{Dong, Xingbo} (董兴波); Ma, Lan; Teoh, Andrew Beng Jin; Lin, Zhixian. 
+\textit{Rawformer: An efficient vision transformer for low-light raw image enhancement}. 
+\textcolor{red}{IEEE Signal Processing Letters}, 29:2677--2681, 2022.
+
+\bibitem{wang2021interpretable}
+Wang, Hanrui; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Teoh, Andrew Beng Jin; Tistarelli, Massimo. 
+\textit{Interpretable security analysis of cancellable biometrics using constrained-optimized similarity-based attack}. 
+\textcolor{red}{Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision}, pages 70--77, 2021.
+
+\bibitem{wang2021cross}
+Wang, Hanrui; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Dugelay, Jean-Luc; Tistarelli, Massimo. 
+\textit{Cross-spectrum face recognition using subspace projection hashing}. 
+\textcolor{red}{2020 25th International Conference on Pattern Recognition (ICPR)}, pages 615--622, 2021.
+
+\bibitem{keong2020multi}
+Keong, Jin; \textbf{Dong, Xingbo} (董兴波); Jin, Zhe; Mallat, Khawla; Dugelay, Jean-Luc. 
+\textit{Multi-spectral facial landmark detection}. 
+\textcolor{red}{2020 IEEE International Workshop on Information Forensics and Security (WIFS)}, pages 1--6, 2020.

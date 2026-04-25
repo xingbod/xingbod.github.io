@@ -299,8 +299,13 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: type
   group_order: descending
+  type_order: [book, article, inproceedings]
+  type_names:
+    book: "Books"
+    article: "Journals"
+    inproceedings: "Conferences"
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

@@ -15,87 +15,51 @@ nav_order: 2
 
 ## Publication Statistics
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <h3 style="margin-top: 0;">By Venue</h3>
-    <table style="font-size: 0.9em; width: 100%;">
-      <thead>
-        <tr>
-          <th style="text-align: left;">Venue</th>
-          <th style="text-align: left;">Type</th>
-          <th style="text-align: left;">Count</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>CVPR</td><td>Conference</td><td>6</td></tr>
-        <tr><td>Pattern Recognition</td><td>Journal</td><td>4</td></tr>
-        <tr><td>PRCV</td><td>Conference</td><td>4</td></tr>
-        <tr><td>CCBR</td><td>Conference</td><td>4</td></tr>
-        <tr><td>NeurIPS</td><td>Conference</td><td>1</td></tr>
-        <tr><td>ICML</td><td>Conference</td><td>1</td></tr>
-        <tr><td>ECCV</td><td>Conference</td><td>1</td></tr>
-        <tr><td>AAAI</td><td>Conference</td><td>2</td></tr>
-        <tr><td>ICME</td><td>Conference</td><td>1</td></tr>
-        <tr><td>WACV</td><td>Conference</td><td>1</td></tr>
-        <tr><td>ICPR</td><td>Conference</td><td>1</td></tr>
-        <tr><td>WIFS</td><td>Conference</td><td>1</td></tr>
-        <tr><td>IJCB</td><td>Conference</td><td>1</td></tr>
-        <tr><td>BIOSIG</td><td>Conference</td><td>1</td></tr>
-        <tr><td>MMSP</td><td>Conference</td><td>1</td></tr>
-        <tr><td>IWBF</td><td>Conference</td><td>1</td></tr>
-        <tr><td>BTAS</td><td>Conference</td><td>1</td></tr>
-        <tr><td>APSIPA ASC</td><td>Conference</td><td>1</td></tr>
-        <tr><td>AIEA</td><td>Conference</td><td>2</td></tr>
-        <tr><td>BICS</td><td>Conference</td><td>1</td></tr>
-        <tr><td>ICIP</td><td>Conference</td><td>1</td></tr>
-        <tr><td>IEEE TCYB</td><td>Journal</td><td>1</td></tr>
-        <tr><td>NPJ AI</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE TCSVT</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Information Fusion</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE JBHI</td><td>Journal</td><td>1</td></tr>
-        <tr><td>JKSUTCIS</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE TIM</td><td>Journal</td><td>1</td></tr>
-        <tr><td>SIViP</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Knowledge-Based Systems</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Food, Nutrition and Health</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Scientific Data</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Scientific Reports</td><td>Journal</td><td>2</td></tr>
-        <tr><td>Education Sciences</td><td>Journal</td><td>2</td></tr>
-        <tr><td>JEI</td><td>Journal</td><td>1</td></tr>
-        <tr><td>EAAI</td><td>Journal</td><td>2</td></tr>
-        <tr><td>IEEE TIFS</td><td>Journal</td><td>2</td></tr>
-        <tr><td>IEEE TFS</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE TRPMS</td><td>Journal</td><td>1</td></tr>
-        <tr><td>PLOS ONE</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE IoTJ</td><td>Journal</td><td>1</td></tr>
-        <tr><td>ACM TOMM</td><td>Journal</td><td>1</td></tr>
-        <tr><td>Computers & Security</td><td>Journal</td><td>1</td></tr>
-        <tr><td>IEEE SPL</td><td>Journal</td><td>1</td></tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="flex: 1; min-width: 200px;">
-    <h3 style="margin-top: 0;">By Year</h3>
-    <table style="font-size: 0.9em; width: 100%;">
-      <thead>
-        <tr>
-          <th style="text-align: left;">Year</th>
-          <th style="text-align: left;">Count</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>2026</td><td>7</td></tr>
-        <tr><td>2025</td><td>19</td></tr>
-        <tr><td>2024</td><td>14</td></tr>
-        <tr><td>2023</td><td>8</td></tr>
-        <tr><td>2022</td><td>5</td></tr>
-        <tr><td>2021</td><td>4</td></tr>
-        <tr><td>2020</td><td>2</td></tr>
-        <tr><td>2019</td><td>3</td></tr>
-        <tr><td>2018</td><td>1</td></tr>
-      </tbody>
-    </table>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">CVPR x 6</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Pattern Recognition x 4</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">PRCV x 4</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">CCBR x 4</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">NeurIPS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ICML x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ECCV x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">AAAI x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ICME x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">WACV x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ICPR x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">WIFS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IJCB x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">BIOSIG x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">MMSP x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IWBF x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">BTAS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">APSIPA ASC x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">AIEA x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">BICS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ICIP x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TCYB x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">NPJ AI x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TCSVT x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Information Fusion x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE JBHI x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">JKSUTCIS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TIM x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">SIViP x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Knowledge-Based Systems x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Food, Nutrition and Health x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Scientific Data x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Scientific Reports x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Education Sciences x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">JEI x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">EAAI x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TIFS x 2</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TFS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE TRPMS x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">PLOS ONE x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE IoTJ x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ACM TOMM x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Computers & Security x 1</div>
+  <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE SPL x 1</div>
 </div>
 
 <div class="publications">

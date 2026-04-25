@@ -13,6 +13,71 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## Publication Statistics
+
+### By Venue
+
+| Venue | Type | Count |
+|-------|------|-------|
+| CVPR | Conference | 6 |
+| Pattern Recognition | Journal | 4 |
+| PRCV | Conference | 4 |
+| CCBR | Conference | 4 |
+| NeurIPS | Conference | 1 |
+| ICML | Conference | 1 |
+| ECCV | Conference | 1 |
+| AAAI | Conference | 2 |
+| ICME | Conference | 1 |
+| WACV | Conference | 1 |
+| ICPR | Conference | 1 |
+| WIFS | Conference | 1 |
+| IJCB | Conference | 1 |
+| BIOSIG | Conference | 1 |
+| MMSP | Conference | 1 |
+| IWBF | Conference | 1 |
+| BTAS | Conference | 1 |
+| APSIPA ASC | Conference | 1 |
+| AIEA | Conference | 2 |
+| BICS | Conference | 1 |
+| ICIP | Conference | 1 |
+| IEEE TCYB | Journal | 1 |
+| NPJ AI | Journal | 1 |
+| IEEE TCSVT | Journal | 1 |
+| Information Fusion | Journal | 1 |
+| IEEE JBHI | Journal | 1 |
+| JKSUTCIS | Journal | 1 |
+| IEEE TIM | Journal | 1 |
+| SIViP | Journal | 1 |
+| Knowledge-Based Systems | Journal | 1 |
+| Food, Nutrition and Health | Journal | 1 |
+| Scientific Data | Journal | 1 |
+| Scientific Reports | Journal | 2 |
+| Education Sciences | Journal | 2 |
+| JEI | Journal | 1 |
+| EAAI | Journal | 2 |
+| IEEE TIFS | Journal | 2 |
+| IEEE TFS | Journal | 1 |
+| IEEE TRPMS | Journal | 1 |
+| PLOS ONE | Journal | 1 |
+| IEEE IoTJ | Journal | 1 |
+| ACM TOMM | Journal | 1 |
+| Computers & Security | Journal | 1 |
+| IEEE SPL | Journal | 1 |
+
+### By Year
+
+| Year | Count |
+|------|-------|
+| 2026 | 7 |
+| 2025 | 19 |
+| 2024 | 14 |
+| 2023 | 8 |
+| 2022 | 5 |
+| 2021 | 4 |
+| 2020 | 2 |
+| 2019 | 3 |
+| 2018 | 1 |
+
 <div class="publications">
 
 {% bibliography %}

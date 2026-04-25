@@ -4,9 +4,9 @@ title: 自然语言处理 / Natural Language Processing
 description: 本课程介绍自然语言处理的基本概念、技术和应用，包括词法分析、句法分析、语义理解、机器翻译等内容。This course introduces the basic concepts, techniques, and applications of natural language processing, including lexical analysis, syntactic analysis, semantic understanding, machine translation, etc.
 instructor: 董兴波 / Dong Xingbo
 year: 2026
-term: 秋季 / Fall
-location: 教学楼 / Teaching Building, Room 301
-time: 周三和周五 / Wednesdays and Fridays, 10:00-11:30 AM
+term: 春季 / Spring
+location: 教学楼 / Teaching Building, 博南C103
+time: 周2和周4 / 10:00-11:30 AM
 course_id: natural-language-processing
 schedule:
   - week: 1

@@ -4,9 +4,9 @@ title: Java程序及应用 / Java Programming and Applications
 description: 本课程介绍Java编程语言的基本语法、面向对象编程思想和Java在实际应用中的使用。This course introduces the basic syntax of Java programming language, object-oriented programming concepts, and the use of Java in practical applications.
 instructor: 董兴波 / Dong Xingbo
 year: 2026
-term: 春季 / Spring
-location: 教学楼 / Teaching Building, Room 202
-time: 周一和周四 / Mondays and Thursdays, 14:00-15:30 PM
+term: 秋季 / Fall
+location: 教学楼 / Teaching Building,TBD
+time: TBD
 course_id: java-programming
 schedule:
   - week: 1

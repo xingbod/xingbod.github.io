@@ -33,10 +33,3 @@ I earned my Ph.D. degree from the Faculty of Information Technology, **[Monash U
 
 I am proudly a participant in a charity project called [**蓝信封行动 (Blue Letter Project)**](http://www.lanxinfeng.org/), which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
 
-## Contact
-
-You can reach me through the following channels:
-
-- **Email**: [xingbod@gmail.com](mailto:xingbod@gmail.com)
-- **Google Scholar**: [Xingbo Dong](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en)
-- **GitHub**: [xingbod](https://github.com/xingbod/)

@@ -24,11 +24,31 @@
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: var(--global-theme-color);
+    border-top: 1px solid var(--global-theme-color);
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
+    font-weight: bold;
+  }
+
+  h2.bibliography.year {
+    color: var(--global-theme-color);
+    border-top: 1px solid var(--global-theme-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  h2.bibliography.type {
+    color: var(--global-theme-color);
+    border-top: 1px solid var(--global-theme-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.75rem;
   }
 
   ol.bibliography {

@@ -7,7 +7,7 @@ subtitle: <a href='#'>Associate Professor at Anhui University</a>. Researcher/PI
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Anhui University, Hefei, China</p>
     <p>Tian-Hai Flow Control Co., LTD</p>

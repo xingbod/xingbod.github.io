@@ -32,3 +32,11 @@ I am currently an Associate Professor at [Anhui University](https://en.ahu.edu.c
 I earned my Ph.D. degree from the Faculty of Information Technology, **[Monash University](https://monash.edu/)**, and my B.Sc. degree with the National Training Base for Life Science and Technology Talents program at **[Huazhong Agricultural University](http://www.hzau.edu.cn/)**. I was briefly enrolled as a Ph.D. student in molecular metabolism at Virginia Tech, USA. Since 2024, I have been a Editor/Guest Editor for several SCI journals and have served as an Area Chair (AC) for BMVC. Please feel free to use my [Public PGP Key](/files/publicPGP.asc) when you email me if you are interested in privacy protection.
 
 I am proudly a participant in a charity project called [**蓝信封行动 (Blue Letter Project)**](http://www.lanxinfeng.org/), which supports children left behind in rural areas💖💖. I was interviewed about my involvement, and you can read the interview [here](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ).
+
+## Contact
+
+You can reach me through the following channels:
+
+- **Email**: [xingbod@gmail.com](mailto:xingbod@gmail.com)
+- **Google Scholar**: [Xingbo Dong](https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en)
+- **GitHub**: [xingbod](https://github.com/xingbod/)

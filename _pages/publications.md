@@ -9,6 +9,12 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
@@ -60,10 +66,4 @@ nav_order: 2
   <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">ACM TOMM x 1</div>
   <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">Computers & Security x 1</div>
   <div style="background: #f5f5f5; padding: 8px 12px; border-radius: 4px; font-size: 0.9em;">IEEE SPL x 1</div>
-</div>
-
-<div class="publications">
-
-{% bibliography %}
-
 </div>

@@ -12,7 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor at Anhui University, Researcher/PI at Tian-Hai Flow Control Co., LTD. Research in image processing, deep learning, computer vision, pattern recognition, and privacy protection.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> .
+  <a href="https://clustrmaps.com/site/1bnli" title="Visit tracker" rel="external nofollow noopener" target="_blank"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&amp;w=a&amp;t=tt&amp;d=LmvvLT0n65Y7xeuF2cyz25_iPbmpwBZm8wd0aXY64js" style="height: 16px;"></a>
 keywords: Dong Xingbo, AI, Machine Learning, Computer Vision, Privacy Protection, Medical Imaging
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

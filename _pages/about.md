@@ -11,9 +11,12 @@ profile:
   more_info: >
     <p>Anhui University, Hefei, China</p>
     <p>Tian-Hai Flow Control Co., LTD</p>
+    <p>Email: <a href="mailto:xingbod@gmail.com">xingbod@gmail.com</a></p>
+    <p>Google Scholar: <a href="https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en" target="_blank">xingbod</a></p>
+    <p>GitHub: <a href="https://github.com/xingbod" target="_blank">xingbod</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 research:
   enabled: true
@@ -25,11 +28,6 @@ research:
     - **Computer Vision**: Object detection, recognition, and scene understanding
     - **Pattern Recognition**: Biometric recognition and security
     - **Privacy Protection**: Biometric template protection and privacy-preserving AI
-
-contact:
-  email: xingbod@gmail.com
-  google_scholar: https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en
-  github: https://github.com/xingbod
 
 announcements:
   enabled: true # includes a list of news items

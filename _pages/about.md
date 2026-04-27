@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associate Professor at Anhui University</a>. Researcher/PI at Tian-Hai Flow Control Co., LTD.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Anhui University, Hefei, China</p>
-    <p>Tian-Hai Flow Control Co., LTD</p>
-    <p>Email: <a href="mailto:xingbod@gmail.com">xingbod@gmail.com</a></p>
-    <p>Google Scholar: <a href="https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en" target="_blank">xingbod</a></p>
-    <p>GitHub: <a href="https://github.com/xingbod" target="_blank">xingbod</a></p>
+    <p>Associate Professor at Anhui University</p>
+    <p>PI at Tian-Hai Flow Control Co., LTD</p>
+    <p>Email: <a href="mailto:xingbod@gmail.com">xingbod[at]gmail.com</a></p>
+    <p><a href="https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+    <p><a href="https://github.com/xingbod" target="_blank">GitHub</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

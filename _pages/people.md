@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /people/
-title: people
-description: Graduate students in our group
+permalink: /future/
+title: future
+description: Graduate students in our group - Future talents
 nav: true
 nav_order: 5
 ---

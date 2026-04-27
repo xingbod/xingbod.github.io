@@ -11,6 +11,4 @@ Special Issue of Symmetry focusing on the exploration of symmetry and asymmetry 
 
 Symmetry and asymmetry play crucial roles in a wide range of computer vision tasks, including object recognition, image segmentation, feature extraction, and 3D reconstruction. By investigating the impact of symmetry and asymmetry on algorithm design and performance, contributors can offer insights into how these principles can be harnessed to enhance image quality, improve computational efficiency, and achieve robust results in complex visual environments.
 
-**Guest Editors:** Dr. Xingbo Dong (Anhui University) and Dr. Shuo Yang (Inner Mongolia University)
-
 [Learn more and submit your paper](https://www.mdpi.com/journal/symmetry/special_issues/01OCG9443X)

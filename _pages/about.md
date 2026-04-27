@@ -8,11 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Associate Professor at Anhui University</p>
-    <p>PI at Tian-Hai Flow Control Co., LTD</p>
+    <p>Associate Professor at Anhui University, PI at Tian-Hai Flow Control Co., LTD</p>
     <p>Email: <a href="mailto:xingbod@gmail.com">xingbod[at]gmail.com</a></p>
-    <p><a href="https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
-    <p><a href="https://github.com/xingbod" target="_blank">GitHub</a></p>
+    <p><a href="https://scholar.google.com/citations?user=Jc4KdcIAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://github.com/xingbod" target="_blank">GitHub</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

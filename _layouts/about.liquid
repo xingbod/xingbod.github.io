@@ -40,6 +40,20 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Research Overview -->
+    {% if page.research and page.research.enabled %}
+      <h2>Research Focus</h2>
+      <div class="research-overview">
+        {% if page.research.image %}
+          {% assign research_image_path = page.research.image | prepend: 'assets/img/' %}
+          {% include figure.liquid loading="eager" path=research_image_path class="img-fluid rounded z-depth-1" alt=page.research.image cache_bust=true %}
+        {% endif %}
+        {% if page.research.description %}
+          <div class="research-description">{{ page.research.description | markdownify }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <h2>

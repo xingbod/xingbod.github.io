@@ -15,6 +15,17 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+research:
+  enabled: true
+  image: research_overview.png
+  description: >
+    My research focuses on several key areas:
+    - **Image Processing**: Both medical and natural image processing
+    - **Deep Learning**: Advanced neural network architectures and applications
+    - **Computer Vision**: Object detection, recognition, and scene understanding
+    - **Pattern Recognition**: Biometric recognition and security
+    - **Privacy Protection**: Biometric template protection and privacy-preserving AI
+
 contact:
   email: xingbod@gmail.com
   google_scholar: https://scholar.google.com/citations?user=ueRkvQMAAAAJ&hl=en

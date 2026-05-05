@@ -3,35 +3,35 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-about-关于",
+    title: "about | 关于",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
+  },{id: "nav-publications-论文",
+          title: "publications | 论文",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-future",
-          title: "future",
+        },{id: "nav-future-人才培养",
+          title: "future | 人才培养",
           description: "Graduate students in our group - Future talents",
           section: "Navigation",
           handler: () => {
             window.location.href = "/future/";
           },
-        },{id: "nav-gallery",
-          title: "gallery",
+        },{id: "nav-gallery-团队风采",
+          title: "gallery | 团队风采",
           description: "Gallery of the team",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-teaching-教学",
+          title: "teaching | 教学",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {

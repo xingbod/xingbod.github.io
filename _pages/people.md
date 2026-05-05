@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /future/
-title: future
+title: future | 人才培养
 description: Graduate students in our group - Future talents
 nav: true
 nav_order: 5

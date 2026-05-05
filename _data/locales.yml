@@ -1,0 +1,29 @@
+en:
+  about: About
+  blog: Blog
+  news: News
+  publications: Publications
+  teaching: Teaching
+  projects: Projects
+  cv: CV
+  gallery: Gallery
+  people: Future
+  graduates: Graduates
+  search: Search
+  dark_mode: Dark Mode
+  home: Home
+
+zh:
+  about: 关于
+  blog: 博客
+  news: 新闻
+  publications: 论文
+  teaching: 教学
+  projects: 项目
+  cv: 简历
+  gallery: 图库
+  people: 人才培养
+  graduates: 毕业生
+  search: 搜索
+  dark_mode: 深色模式
+  home: 首页

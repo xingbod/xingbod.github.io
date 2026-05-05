@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery | 团队风采
+title: gallery
 description: Gallery of the team
 nav: true
 nav_order: 6

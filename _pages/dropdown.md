@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus | 更多
+title: submenus
 nav: false
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf | 书架
+  - title: bookshelf
     permalink: /books/
   - title: divider
-  - title: blog | 博客
+  - title: blog
     permalink: /blog/
 ---

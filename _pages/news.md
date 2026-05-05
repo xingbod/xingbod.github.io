@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news | 新闻
+title: news
 permalink: /news/
 ---
 

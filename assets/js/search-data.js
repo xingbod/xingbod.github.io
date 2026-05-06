@@ -86,7 +86,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-call-for-paper-image-processing-techniques-for-enhanced-visual-quality-scientific-reports-collection-welcomes-original-research-on-image-processing-techniques-for-enhanced-visual-quality-narrative-review-articles-are-also-welcomed-to-scientific-reviews-processing-techniques-play-a-crucial-role-in-improving-the-clarity-fidelity-and-interpretability-of-visual-content-with-advances-in-deep-learning-and-computational-photography-modern-methods-enable-enhancements-such-as-noise-reduction-super-resolution-contrast-optimization-artifact-removal-and-colour-correction-learn-more-and-submit-your-paper-note-discounts-are-available-on-a-case-by-case-basis-for-eligible-submissions",
+          section: "News",},{id: "news-our-work-on-chewing-evaluation-was-reported-by-fnah-我所在的团队关于咀嚼评估的工作获-fnah-报道推荐",
+          title: 'Our Work on Chewing Evaluation was Reported by FNAH | 我所在的团队关于咀嚼评估的工作获 FNAH 报道推荐...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-21-chewing-evaluation/";
+            },},{id: "news-i-was-invited-to-give-a-keynote-talk-at-ccbr-2025-我荣幸受邀在-ccbr-2025-作专题报告",
+          title: 'I was Invited to Give a Keynote Talk at CCBR 2025 | 我荣幸受邀在...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-09-ccbr-forum/";
+            },},{id: "news-call-for-paper-image-processing-techniques-for-enhanced-visual-quality-scientific-reports-collection-welcomes-original-research-on-image-processing-techniques-for-enhanced-visual-quality-narrative-review-articles-are-also-welcomed-to-scientific-reviews-processing-techniques-play-a-crucial-role-in-improving-the-clarity-fidelity-and-interpretability-of-visual-content-with-advances-in-deep-learning-and-computational-photography-modern-methods-enable-enhancements-such-as-noise-reduction-super-resolution-contrast-optimization-artifact-removal-and-colour-correction-learn-more-and-submit-your-paper-note-discounts-are-available-on-a-case-by-case-basis-for-eligible-submissions",
           title: 'Call for Paper: Image processing techniques for enhanced visual quality Scientific Reports Collection...',
           description: "",
           section: "News",},{id: "news-call-for-paper-symmetry-asymmetry-in-image-processing-and-computer-vision-special-issue-of-symmetry-focusing-on-the-exploration-of-symmetry-and-asymmetry-in-image-processing-and-computer-vision-aiming-to-advance-the-understanding-of-these-fundamental-principles-and-their-applications-in-modern-visual-technologies-symmetry-and-asymmetry-play-crucial-roles-in-a-wide-range-of-computer-vision-tasks-including-object-recognition-image-segmentation-feature-extraction-and-3d-reconstruction-by-investigating-the-impact-of-symmetry-and-asymmetry-on-algorithm-design-and-performance-contributors-can-offer-insights-into-how-these-principles-can-be-harnessed-to-enhance-image-quality-improve-computational-efficiency-and-achieve-robust-results-in-complex-visual-environments-learn-more-and-submit-your-paper",

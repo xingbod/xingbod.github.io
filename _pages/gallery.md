@@ -44,3 +44,75 @@ nav_order: 6
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/QYH present at CCBR.jpg" title="QYH present at CCBR" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            QYH presenting at CCBR
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/WLW participate biometric winter school.png" title="WLW participate biometric winter school" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            WLW participating in the Biometric Winter School
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/ZY participate biometric winter school.png" title="ZY participate biometric winter school" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            ZY participating in the Biometric Winter School
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/celebrate happy birthdat to our team members.png" title="Celebrate birthdays" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Celebrating birthdays of our team members
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/dinner gather for india food at 2024.png" title="India food dinner" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Dinner gathering for Indian food (2024)
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/prof massimo visit us  at 2024 we very welcome him for his visit.png" title="Prof. Massimo visit" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Prof. Massimo visiting us (2024)
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/spring visit to Nanjing for Cherry bloosoom at 2024.png" title="Spring visit to Nanjing" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Spring visit to Nanjing for Cherry blossoms (2024)
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/team-dinner at 2025 fall season.jpg" title="Team dinner" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Team dinner (Fall 2025)
+        </div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/team-trip at 2025 fall season.jpg" title="Team trip" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Team trip (Fall 2025)
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/team/给团队提供的小吃2023.png" title="Team snacks" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Snacks provided to the team (2023)
+        </div>
+    </div>
+</div>

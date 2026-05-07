@@ -56,4 +56,6 @@ I am proudly a participant in a charity project called [**蓝信封行动 (Blue 
 
 我参与了公益项目 [**蓝信封行动**](https://mp.weixin.qq.com/s/bo23lhRF_RxtpezyHff_mQ)，该项目致力于支持农村留守儿童💖💖。我很幸运获得了多项国内外人才项目资助，同时我也是一些省/市的认定高层次人才。
 
+欢迎27保研同学提前联系，欢迎报考硕士研究生。我们是一个想要变更好的团队，适合想要显著提升自己的同学。每年招生名额很少，只有1-2个，欢迎提前联系！
+
 ---

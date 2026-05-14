@@ -91,11 +91,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-21-chewing-evaluation/";
-            },},{id: "news-i-was-invited-to-give-a-keynote-talk-at-ccbr-2025-我荣幸受邀在-ccbr-2025-作专题报告",
-          title: 'I was Invited to Give a Keynote Talk at CCBR 2025 | 我荣幸受邀在...',
+            },},{id: "news-i-was-invited-to-give-a-keynote-forum-talk-at-ccbr-2025-我荣幸受邀在-ccbr-2025-作专题报告",
+          title: 'I was Invited to Give a Keynote Forum Talk at CCBR 2025 |...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-11-09-ccbr-forum/";
+            },},{id: "news-i-was-invited-to-give-a-keynote-talk-at-nnice-2026-我荣幸受邀在-nnice-2026-作大会主旨报告",
+          title: 'I was Invited to Give a Keynote Talk at NNICE 2026 | 我荣幸受邀在...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-24-nnice-keynote/";
             },},{id: "news-call-for-paper-image-processing-techniques-for-enhanced-visual-quality-scientific-reports-collection-welcomes-original-research-on-image-processing-techniques-for-enhanced-visual-quality-narrative-review-articles-are-also-welcomed-to-scientific-reviews-processing-techniques-play-a-crucial-role-in-improving-the-clarity-fidelity-and-interpretability-of-visual-content-with-advances-in-deep-learning-and-computational-photography-modern-methods-enable-enhancements-such-as-noise-reduction-super-resolution-contrast-optimization-artifact-removal-and-colour-correction-learn-more-and-submit-your-paper-note-discounts-are-available-on-a-case-by-case-basis-for-eligible-submissions",
           title: 'Call for Paper: Image processing techniques for enhanced visual quality Scientific Reports Collection...',
           description: "",

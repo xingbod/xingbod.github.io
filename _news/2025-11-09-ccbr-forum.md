@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I was Invited to Give a Keynote Talk at CCBR 2025 | 我荣幸受邀在 CCBR 2025 作专题报告"
+title: "I was Invited to Give a Keynote Forum Talk at CCBR 2025 | 我荣幸受邀在 CCBR 2025 作专题报告"
 date: 2025-11-09 20:49:00+0800
 inline: false
 related_posts: false

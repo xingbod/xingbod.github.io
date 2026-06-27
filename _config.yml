@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> .
-  <a href="https://mapmyvisitors.com/web/1c5yf" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=Jm8VrZH8YsIGldbMvLDIdiZXdUAb-D6dHgxMjkiwN0k&cl=ffffff" /></a>
+  <a href="https://mapmyvisitors.com/web/1c5yf" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=Jm8VrZH8YsIGldbMvLDIdiZXdUAb-D6dHgxMjkiwN0k&cl=ffffff" style="height: 10px;" /></a>
 keywords: Dong Xingbo, AI, Machine Learning, Computer Vision, Privacy Protection, Medical Imaging
 lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
